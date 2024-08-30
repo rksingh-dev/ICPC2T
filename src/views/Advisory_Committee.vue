@@ -5,7 +5,7 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <h2 class="font-weight-bold mt-3">
-          <strong>Advisory Board Members(Tentative)</strong>
+          <strong>Advisory Board Members</strong>
         </h2>
         <hr class="red title-hr" />
         <p class="article">

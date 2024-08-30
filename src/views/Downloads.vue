@@ -42,14 +42,14 @@
               </li>
             </ul>
           </li>
-          <li class="list-group-item d-flex">
+          <!-- <li class="list-group-item d-flex">
             <a
               href="/ICPC2T-2024.pptx"
               style="color: blue"
             >
               • Download sample PPT template.
             </a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>

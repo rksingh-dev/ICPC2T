@@ -59,8 +59,9 @@
           30<sup>th</sup> June 2024
         </li>
         <li class="list-group-item">
-          Deadline for Full Paper Submission :
-         30<sup>th</sup> August 2024
+          Deadline for Full Paper Submission Extended to:
+          <s>30<sup>th</sup> August 2024</s>
+          30<sup>th</sup> August 2024
         </li>
         <li class="list-group-item">
           Acceptance Notification : 31<sup>st</sup> October 2024

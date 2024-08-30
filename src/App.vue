@@ -80,6 +80,9 @@
                   <router-link class="dropdown-item" to="/tracks"
                     >Tracks / Topics</router-link
                   >
+                  <router-link class="dropdown-item" to="/Special"
+                    >Special Session</router-link
+                  >
                 </div>
               </li>
 

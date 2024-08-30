@@ -13,6 +13,7 @@ import Keynote_Speakers from '../views/Keynote_Speakers.vue'
 import Partners from '../views/Partners.vue'
 import Workshops from '../views/Workshops.vue'
 import Trackstopics from '../views/TracksTopics.vue'
+import Special from '../views/Special.vue'
 import Advisory_Committee from '../views/Advisory_Committee.vue'
 import Organising_Committee from '../views/Organising_Committee.vue'
 import Technical_Committee from '../views/Technical_Committee.vue'
@@ -109,6 +110,11 @@ const routes = [
     path: '/tracks',
     name: 'Trackstopics',
     component: Trackstopics
+  },
+  {
+    path: '/Special',
+    name: 'Special',
+    component: Special
   },
   {
     path: '/tourist',
