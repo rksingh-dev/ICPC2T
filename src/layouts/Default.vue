@@ -83,7 +83,9 @@
                   <router-link class="dropdown-item" to="/camerareadysubmission"
                     >Camera Ready Submission Instructions</router-link
                   >
-
+                  <router-link class="dropdown-item" to="/Special"
+                    >Special Session</router-link
+                  >
       
                 </div>
               </li>
