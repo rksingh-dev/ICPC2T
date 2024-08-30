@@ -7,7 +7,10 @@ T<template>
       onmouseover="this.stop();"
       onmouseout="this.start();"
     >
-    Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a></marquee
+    Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>. ICPC2T is now accepting papers in the approved special sessions and papers can be submitted on <a
+            href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index"
+            >paper submission portal</a
+          ></marquee
     >
     <div id="carousel-main-div-for-spacing">
       <!-- Carousel Wrapper -->
