@@ -19,6 +19,10 @@
             >Download SS1 - Brochure
             <i class="fas fa-file-pdf"></i
           ></a></p>
+          <p><a href="/SS-2 brochure.pdf" target="_blank"
+            >Download SS2 - Brochure
+            <i class="fas fa-file-pdf"></i
+          ></a></p>
           </div>
         </div>
       </div>
