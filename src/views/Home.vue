@@ -5,6 +5,7 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <!-- Title -->
+        
         <h2 class="font-weight-bold mt-3">
           <strong>About the Institution</strong>
         </h2>

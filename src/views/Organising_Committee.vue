@@ -22,6 +22,7 @@
             <span>Prof. Prof. Kleber Melo e Silva, University of Brasilia, Brazil</span><br />
             <span>Prof. Bhim Singh, SERB National Science Chair & Emeritus Professor, IIT-Delhi</span><br />
             <span>Prof. Nilesh J. Vasa, IIT Madras</span><br />
+            <span> Prof. Akshay Kumar Rathore, Singapor Institute of Technology</span><br />
             <br /><span class="heading">General Chairs</span><br />
             <span
               >Dr. Anamika Yadav, HOD, Dept. of Electrical Engineering, NIT

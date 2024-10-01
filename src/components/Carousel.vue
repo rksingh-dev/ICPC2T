@@ -1,4 +1,4 @@
-T<template>
+<template>
   <div>
     <marquee
       behavior=""
@@ -7,14 +7,24 @@ T<template>
       onmouseover="this.stop();"
       onmouseout="this.start();"
     >
-    Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>. ICPC2T is now accepting papers in the approved special sessions and papers can be submitted on <a
-            href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index"
-            >paper submission portal</a
-          ></marquee
-    >
+      <div class="marquee-content">
+        <div>
+          Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25: 
+          <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>.
+        </div>
+        <div>
+          ICPC2T is now accepting papers in the approved special sessions, and papers can be submitted on the 
+          <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">paper submission portal</a>.
+        </div>
+        <div>
+           CMT link for paper submission
+          <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">click here</a>.
+        </div>
+      </div>
+    </marquee>
+
     <div id="carousel-main-div-for-spacing">
       <!-- Carousel Wrapper -->
-      <!-- Second ieee Icpc2t Hybrid conference - schedule | All accepted & presented papers will be published in IEEE Xplore (Proceedings indexed in Scopus) | Fully Hybrid presentations -->
       <div
         id="carousel-example-1z"
         class="carousel slide carousel-fade"
@@ -48,7 +58,6 @@ T<template>
                     />
                   </div>
                 </div>
-
                 <div class="col-md-4">
                   <div class="card mb-2">
                     <img
@@ -75,7 +84,6 @@ T<template>
                     />
                   </div>
                 </div>
-
                 <div class="col-md-4 clearfix d-none d-md-block">
                   <div class="card mb-2">
                     <img
@@ -85,7 +93,6 @@ T<template>
                     />
                   </div>
                 </div>
-
                 <div class="col-md-4 clearfix d-none d-md-block">
                   <div class="card mb-2">
                     <img
@@ -117,23 +124,32 @@ export default {
   margin-right: 50px;
   margin-left: 50px;
 }
+
 .col-md-4 {
   padding-top: 0;
   padding-right: 5px;
   padding-bottom: 0;
   padding-left: 5px;
 }
+
 img {
   max-height: 220px;
   height: 100%;
   width: 100%;
 }
+
 marquee {
   padding-top: 5px;
   padding-bottom: 4px;
   font-size: 15px;
   font-weight: 400;
 }
-</style>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+.marquee-content {
+  display: inline-block;
+}
+
+.marquee-content div {
+  margin-bottom: 5px; /* Creates space between lines */
+}
+</style>
