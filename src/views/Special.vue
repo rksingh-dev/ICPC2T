@@ -15,11 +15,12 @@
             >paper submission portal</a
           ></p>
           
-          <p><a href="/SS1_brochure.pdf" target="_blank"
+          <p>SS1: Integration and Control of Renewable Energy with the Power Grid<br><a href="/SS1_brochure.pdf" target="_blank"
             >Download SS1 - Brochure
             <i class="fas fa-file-pdf"></i
           ></a></p>
-          <p><a href="/SS-2 brochure.pdf" target="_blank"
+          <p>SS2: Power Converter Applications in Renewable Energy: New Topologies, Control
+            Systems, Condition Monitoring and Energy Efficiency<br><a href="/ss2brochure.pdf" target="_blank"
             >Download SS2 - Brochure
             <i class="fas fa-file-pdf"></i
           ></a></p>
