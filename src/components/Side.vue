@@ -35,9 +35,9 @@
             Sample for PPT template: <a href="/ICPC2T-2024.pptx">click here</a> -->
             Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
           Deadline for Full Paper Submission : <s>30<sup>th</sup> September 2024</s>  15<sup>th</sup> October 2024 <br /><br /> 
-          Acceptance Notification : 31<sup>st</sup> October 2024 <br /><br /> 
-          Camera Ready Paper Submission : 15<sup>th</sup> November 2024<br /><br /> 
-          Registration Deadline : 30<sup>th</sup> November 2024<br /><br /> 
+          Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024 <br /><br /> 
+          Camera Ready Paper Submission : <s>15<sup>th</sup> November 2024</s> 30<sup>th</sup> November 2024<br /><br /> 
+          Registration Deadline : <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024<br /><br /> 
           </marquee>
         </p>
       </div>
@@ -66,13 +66,13 @@
             15<sup>th</sup> October 2024
         </li>
         <li class="list-group-item">
-          Acceptance Notification : 31<sup>st</sup> October 2024
+          Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024
         </li>
         <li class="list-group-item">
-          Camera Ready Paper Submission : 15<sup>th</sup> November 2024
+          Camera Ready Paper Submission : <s>15<sup>th</sup> November 2024</s> 30<sup>th</sup> November 2024
         </li>
         <li class="list-group-item">
-          Registration Deadline : 30<sup>th</sup> November 2024
+          Registration Deadline : <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
         </li>
       </ul>
       <!-- Text -->
