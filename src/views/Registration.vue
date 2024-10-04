@@ -8,7 +8,7 @@
           <strong>Registration</strong>
         </h2>
         <hr class="red title-hr" />
-        <p class="article">
+        <!-- <p class="article">
           Author/participants shall pay the registration fee directly to the bank account. The candidate shall send the filled registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t-2025@nitrr.ac.in</a> on or before
           15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7e6RRqHsD3VG1_t1iiebYbei2lGXKxOnNqbIiuoCsZ2jwUg/viewform">clicking here</a> . The registration fee details and bank account details are given below.
         </p>
@@ -117,10 +117,10 @@
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
         </p>
-        <!-- <p class="red-text">
+       <p class="red-text">
           Account Number: 38027633250, IFSC: SBIN002852, SBI, Raipur
         </p> -->
-               <h4>
+               <!-- <h4>
             Account details of conference
         </h4>
          <ul style="list-style-type:none;line-height:1.5"></ul>
@@ -137,7 +137,7 @@
         <br>
         <h4>
             Publications Opportunities
-        </h4>
+        </h4> -->
         <!-- <p class="article">
         <ul>
           <li>
@@ -153,7 +153,7 @@
           </li>
         </ul>
        </p> -->
-       <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
+       <!-- <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
@@ -165,11 +165,11 @@
 <li>The eligible selected papers will be further review for a possible publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
 <li>Details of the online and offline mode of presentation will be made available in the ICPC<sup>2</sup>T 2025 conference website in program schedule. </li>
         </ul>
-</p>
+</p> -->
 <!-- <h4>CAMERA READY INSTRUCTIONS</h4>
 <p class="article red-text"><a href="/camera_ready_instructions_web.docx">Click here for CAMERA READY INSTRUCTIONS</a></p> -->
 
-<h4>
+<!-- <h4>
   Previous conference proceedings links
 </h4>
 <ul>
@@ -180,8 +180,8 @@
 
 
 <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>
-<br>
-
+<br>  -->
+<p class="article">Registration details will be updated soon.</p>
 
       </div>
     </div>
