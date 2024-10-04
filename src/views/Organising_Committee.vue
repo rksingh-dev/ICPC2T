@@ -23,6 +23,8 @@
             <span>Prof. Bhim Singh, SERB National Science Chair & Emeritus Professor, IIT-Delhi</span><br />
             <span>Prof. Nilesh J. Vasa, IIT Madras</span><br />
             <span> Prof. Akshay Kumar Rathore, Singapor Institute of Technology</span><br />
+            <span> Prof. Biplab Sikdar, National University of Singapore, Singapore </span><br />
+            <span> Prof. Vinod Khadkikar, Khalifa University, UAE </span><br />
             <br /><span class="heading">General Chairs</span><br />
             <span
               >Dr. Anamika Yadav, HOD, Dept. of Electrical Engineering, NIT
