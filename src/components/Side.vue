@@ -34,7 +34,7 @@
             <br/><br/>
             Sample for PPT template: <a href="/ICPC2T-2024.pptx">click here</a> -->
             Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
-          Deadline for Full Paper Submission : <s> 15<sup>th</sup> October 2024 </s>  22<sup>nd</sup> October 2024   <br /><br /> 
+          Deadline for Full Paper Submission : <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)   <br /><br /> 
           Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024 <br /><br /> 
           Camera Ready Paper Submission : <s>15<sup>th</sup> November 2024</s> 30<sup>th</sup> November 2024<br /><br /> 
           Registration Deadline : <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024<br /><br /> 
@@ -62,7 +62,7 @@
           Deadline for Full Paper Submission Extended to:
           <!-- <s>30<sup>th</sup> August 2024</s>
           <s>15<sup>th</sup> September 2024</s> -->
-          <s> 15<sup>th</sup> October 2024 </s>  22<sup>nd</sup> October 2024 
+          <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)  
         </li>
         <li class="list-group-item">
           Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024

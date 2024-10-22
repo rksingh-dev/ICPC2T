@@ -7,7 +7,7 @@
         <h2 class="font-weight-bold mt-3">
           <strong>Speakers</strong>
         </h2>
-        <p class="article">Will be Updated Soon.</p>
+        <!-- <p class="article">Will be Updated Soon.</p> -->
         <carousel id="primary"
       :per-page="1"
       :mouse-drag="false"
@@ -16,47 +16,35 @@
       :loop=true
       :autoplayHoverPause=true
     >
-      <!-- <slide
+       <slide
         data-index="0"
         data-name="MySlideName"
       
         :centerMode="true"
-      > -->
-      <!-- <div class="speaker-card"> 
+      > 
+       <div class="speaker-card"> 
         <div class="right">
-          <img class="carousel-img" src="@/assets/ak_rathore.jpeg" />
+          <img class="carousel-img" src="@/assets/Kleber Melo e Silva.jpg" />
         </div>
-        <div class="left"> <h2><strong>Akshay Kumar Rathore</strong></h2>
-        <p> Prof. Akshay Kumar Rathore (IEEE Fellow), an expert in power electronics and 
-          control of electrical motor drives. He received his Master's degree(GOLD MEDALIST) at IIT BHU,India.
-           He had two subsequent postdoctoral research appointments with the University of Wuppertal,Germany,
-            and the University of Illinois at Chicago, USA. From November 2010 to February 2016, 
-            he served as an Assistant Professor at the Department of Electrical and Computer Engineering,
-           National University of Singapore and from March 2016-Dec 2021 in Concordia University,Montreal respectively.
+        <div class="left"> <h2><strong>Kleber Melo E Silva</strong></h2>
+        <p> An Electrical Engineer, he graduated from the Federal University of Campina Grande (UFCG) in 2004, earning his Master's (2005) and Doctorate (2009) there. He was a Visiting Professor at UEPB in 2007 and a tenured professor at IFPB (2008-2009). Since 2009, he has been a professor at the University of Brasília (UnB), coordinating the LAPSE lab and the PPGEE program (2016-2018, 2021-present). He served as a Visiting Professor at Texas A&M University (2019-2020) and is an Associate Editor for IEEE journals. A Senior Member of IEEE and CNPq Research Fellow (PQ-2), his research focuses on power system protection, fault location, and electromagnetic transients.
         </p>
         </div>
-        </div> -->
+        </div> 
           
-      <!-- </slide>
+      </slide>
       <slide
         data-index="1"
         data-name="MySlideName"
       
         :centerMode="true"
-      > -->
-      <!-- <div class="speaker-card"> 
+      > 
+       <div class="speaker-card"> 
         <div class="right">
-          <img class="carousel-img" src="@/assets/bhimsing_sir.jpg" />
+          <img class="carousel-img" src="@/assets/Dr Sze Sing Lee.jpg" />
         </div>
-        <div class="left"> <h2><strong>Bhim Singh </strong></h2>
-        <p> Prof. Bhim Singh has received his B.E. (Electrical) from the University of Roorkee, India, in 1977 
-          and his M. Tech. (Power Apparatus & Systems) and Ph.D. from the IIT Delhi, India, 
-          in 1979 and 1983, respectively.
-
-          In 1983, he joined the Department of Electrical Engineering, University of Roorkee (Now IIT Roorkee),as a Lecturer.
-          Later, he joined the Department of Electrical Engineering, IIT Delhi, India.He has been HOD(Electrical) at 
-          IIT Delhi from July 2014 to August 2016. Later, Prof. Singh has been Dean Academics at IIT Delhi from August 2016 to
-          August 2019.
+        <div class="left"> <h2><strong>Dr Sze Sing Lee </strong></h2>
+        <p>Dr. Sze Sing Lee (Senior Member, IEEE) received the B.Eng. (Hons.) and Ph.D. degrees in electrical engineering from Universiti Sains Malaysia, Penang, Malaysia, in 2010 and 2013, respectively. From 2014 to 2019, he was a Lecturer\Assistant Professor with the branch campus of the University of Southampton, Malaysia. From 2018 to 2019, he was a Visiting Research Professor with Ajou University, South Korea. He is currently an Assistant Professor with Newcastle University, Singapore. His research interests include power converter\inverter topologies and their control strategies. Dr. Lee is an Associate Editor for the IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS and IEEE ACCESS, and a Guest Associate Editor for the IEEE TRANSACTIONS ON POWER ELECTRONICS. He is a Chartered Engineer registered with Engineering Council, U.K.
         </p>
         </div>
         </div>
@@ -70,20 +58,15 @@
       >
       <div class="speaker-card"> 
         <div class="right">
-          <img class="carousel-img" src="@/assets/mk_badapanda.jpg" />
+          <img class="carousel-img" src="@/assets/Dr. Nilesh Jayantilal Vasa.jpg" />
         </div>
-        <div class="left"> <h2><strong>M.K Badapanda</strong></h2>
-        <p>Prof. Manmath Kumar Badapanda has received his B.Tech in Electrical Engineering 
-          from Veer Surendra Sai University of Technology, Burla, Odisha in 1988; M.Tech in Electrical Engineering from IIT BHU, in 1990 
-          and P.G Diploma in Business Administration degree from IIMS, Kolkata in 1999.
-          He has started his professional career with DLW, Varanasi, Ministry of Indian Railways, 
-          Government of India in 1991.Later he shifted to RRCAT, Indore,
-          a premier Research and Development organization under Department of Atomic Energy, Government of India.
+        <div class="left"> <h2><strong>Dr. Nilesh Jayantilal Vasa</strong></h2>
+        <p>Dr. Nilesh J Vasa is a Professor, Department of Engineering Design, IIT Madras. He is also Dean of students at IIT Madras. His major research interests are Laser-assisted sensing, opto mechatronics, pulsed laser deposition of functional thin films, laser assisted micromanufacturing. He has several patents to his credit and recently applied is "Off-resonant broadband absorption based photoacoustic sensor for multiple gas sensing“ with Ramya Selvaraj, Nilesh J. Vasa, S. M. Shivanagendra. He has authored more than 106 journal articles and 54 conference papers and peer reviewed journals.
         </p>
         </div>
         </div> 
-      </slide> -->
-      <!-- <slide
+      </slide> 
+       <!-- <slide
         data-index="1"
         data-name="MySlideName"
       
@@ -98,7 +81,7 @@
         :centerMode="true"
       >
         <img class="carousel-img" src="@/assets/speaker3.jpg" />
-      </slide> -->
+      </slide>  -->
      
     </carousel>
       </div>
