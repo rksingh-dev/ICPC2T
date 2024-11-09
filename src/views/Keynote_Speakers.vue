@@ -34,7 +34,7 @@
           
       </slide>
        <slide
-        data-index="0"
+        data-index="1"
         data-name="MySlideName"
       
         :centerMode="true"
@@ -51,11 +51,45 @@
           
       </slide>
       <slide
-        data-index="1"
+        data-index="2"
         data-name="MySlideName"
       
         :centerMode="true"
       > 
+      
+      <div class="speaker-card"> 
+        <div class="right">
+          <img class="carousel-img" src="@/assets/Vinod_KU.jpg" />
+        </div>
+        <div class="left"> <h2><strong>Prof. Vinod Khadkikar</strong></h2>
+        <p>Prof. Khadkikar, an IEEE Fellow since 2022, is known for his contributions to power quality solutions. He serves as Co-Editor-in-Chief of IEEE Transactions on Industrial Electronics and is a Distinguished Lecturer for the IEEE Industry Applications Society. He has held roles on the IEEE IAS Fellow Evaluation committee and as an Associate Editor for IEEE Transactions on Industry Applications and IET Power Electronics.With a B.E. from Government College of Engineering, Aurangabad, an M.Tech. from IIT Delhi, and a Ph.D. from ETS Montreal, he has held academic positions at the University of Western Ontario, MIT, and currently at Khalifa University, Abu Dhabi, where he joined in 2010. He has authored over 75 IEEE Transactions papers and was ranked among the top 2% of researchers in Electrical Engineering globally by Stanford University in 2022. He also serves as a Scientist Member in the Mohammed bin Rashid Academy of Scientists (MBRAS) and holds leadership roles in energy-focused research themes at Khalifa University.
+        </p>
+        </div>
+        </div> 
+      </slide> 
+      <slide
+        data-index="3"
+        data-name="MySlideName"
+      
+        :centerMode="true"
+      >
+      
+      <div class="speaker-card"> 
+        <div class="right">
+          <img class="carousel-img" src="@/assets/Biplab.jpg" />
+        </div>
+        <div class="left"> <h2><strong>Biplab Sikdar</strong></h2>
+        <p>Biplab Sikdar is a Professor in the Department of Electrical and Computer Engineering at the National University of Singapore. He currently serves as the Head of Department for the Department of Electrical and Computer Engineering, and leads the $54 million Cisco-NUS corporate research laboratory. He received the B. Tech. degree in electronics and communication engineering from NERIST, North Eastern Hill University, Shillong, India, in 1996, the M.Tech. degree in electrical engineering from the Indian Institute of Technology, Kanpur, India, in 1998, and the Ph.D. degree in electrical engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2001. He was an Assistant Professor from 2001-2007 and Associate Professor from 2007-2013 in the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute from 2001 to 2013. He is a recipient of the NSF CAREER award, the Tan Chin Tuan fellowship from NTU Singapore, the Japan Society for Promotion of Science fellowship, and the Leiv Eiriksson fellowship from the Research Council of Norway. His research interests include IoT and cyber-physical system security, network security, and network performance evaluation. Dr. Sikdar is a member of Eta Kappa Nu and Tau Beta Pi, and IEEE Distinguished Lecturer and ACM Distinguished Speaker. He has served as an Associate Editor for the IEEE Transactions on Communications, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, and IEEE Open Journal of Vehicular Technology.
+        </p>
+        </div>
+        </div> 
+      </slide> 
+      <slide
+        data-index="4"
+        data-name="MySlideName"
+      
+        :centerMode="true"
+      >
        <div class="speaker-card"> 
         <div class="right">
           <img class="carousel-img" src="@/assets/Dr Sze Sing Lee.jpg" />
@@ -67,8 +101,10 @@
         </div>
           
       </slide>
+      
+
       <slide
-        data-index="2"
+        data-index="5"
         data-name="MySlideName"
       
         :centerMode="true"
@@ -83,38 +119,7 @@
         </div>
         </div> 
       </slide> 
-      <slide
-        data-index="2"
-        data-name="MySlideName"
       
-        :centerMode="true"
-      >
-      <div class="speaker-card"> 
-        <div class="right">
-          <img class="carousel-img" src="@/assets/Vinod_KU.jpg" />
-        </div>
-        <div class="left"> <h2><strong>Prof. Vinod Khadkikar</strong></h2>
-        <p>Prof. Khadkikar, an IEEE Fellow since 2022, is known for his contributions to power quality solutions. He serves as Co-Editor-in-Chief of IEEE Transactions on Industrial Electronics and is a Distinguished Lecturer for the IEEE Industry Applications Society. He has held roles on the IEEE IAS Fellow Evaluation committee and as an Associate Editor for IEEE Transactions on Industry Applications and IET Power Electronics.With a B.E. from Government College of Engineering, Aurangabad, an M.Tech. from IIT Delhi, and a Ph.D. from ETS Montreal, he has held academic positions at the University of Western Ontario, MIT, and currently at Khalifa University, Abu Dhabi, where he joined in 2010. He has authored over 75 IEEE Transactions papers and was ranked among the top 2% of researchers in Electrical Engineering globally by Stanford University in 2022. He also serves as a Scientist Member in the Mohammed bin Rashid Academy of Scientists (MBRAS) and holds leadership roles in energy-focused research themes at Khalifa University.
-        </p>
-        </div>
-        </div> 
-      </slide> 
-      <slide
-        data-index="2"
-        data-name="MySlideName"
-      
-        :centerMode="true"
-      >
-      <div class="speaker-card"> 
-        <div class="right">
-          <img class="carousel-img" src="@/assets/Biplab.jpg" />
-        </div>
-        <div class="left"> <h2><strong>Biplab Sikdar</strong></h2>
-        <p>Biplab Sikdar is a Professor in the Department of Electrical and Computer Engineering at the National University of Singapore. He currently serves as the Head of Department for the Department of Electrical and Computer Engineering, and leads the $54 million Cisco-NUS corporate research laboratory. He received the B. Tech. degree in electronics and communication engineering from NERIST, North Eastern Hill University, Shillong, India, in 1996, the M.Tech. degree in electrical engineering from the Indian Institute of Technology, Kanpur, India, in 1998, and the Ph.D. degree in electrical engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2001. He was an Assistant Professor from 2001-2007 and Associate Professor from 2007-2013 in the Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute from 2001 to 2013. He is a recipient of the NSF CAREER award, the Tan Chin Tuan fellowship from NTU Singapore, the Japan Society for Promotion of Science fellowship, and the Leiv Eiriksson fellowship from the Research Council of Norway. His research interests include IoT and cyber-physical system security, network security, and network performance evaluation. Dr. Sikdar is a member of Eta Kappa Nu and Tau Beta Pi, and IEEE Distinguished Lecturer and ACM Distinguished Speaker. He has served as an Associate Editor for the IEEE Transactions on Communications, IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, and IEEE Open Journal of Vehicular Technology.
-        </p>
-        </div>
-        </div> 
-      </slide> 
        <!-- <slide
         data-index="1"
         data-name="MySlideName"
