@@ -39,6 +39,16 @@
           <slide>
             <!--First slide-->
             <div class="carousel-item active">
+            <img
+                      class="card-img-top"
+                      src="@/assets/template2.png"
+                      alt="Card image cap"
+                    />
+                  </div>
+                  </slide>
+                  <slide>
+            <div class="carousel-item active">
+              
               <div class="row">
                 <div class="col-md-4 clearfix d-none d-md-block">
                   <div class="card mb-2">
