@@ -18,8 +18,10 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-          Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>
+          All the accepted papers should be presented in physical mode only.
           <br/><br/>
+          <!-- Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>
+          <br/><br/> -->
             <!-- Deadline for Full Paper Submission :
             <s> 15<sup>th</sup> November 2023 </s>20<sup>th</sup> November 2023 (hard deadline)<br /><br />
             Venue : Department of Electrical Engineering, National Institute of
@@ -35,9 +37,9 @@
             Sample for PPT template: <a href="/ICPC2T-2024.pptx">click here</a> -->
             Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
           Deadline for Full Paper Submission : <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)   <br /><br /> 
-          Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024 <br /><br /> 
-          Camera Ready Paper Submission : <s>15<sup>th</sup> November 2024</s> 30<sup>th</sup> November 2024<br /><br /> 
-          Registration Deadline : <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024<br /><br /> 
+          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024 <br /><br /> 
+          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024<br /><br /> 
+          Registration Deadline : <s>5<sup>th</sup> December 2024 </s> 15<sup>th</sup> December 2024 <br /><br /> 
           </marquee>
         </p>
       </div>
@@ -55,6 +57,17 @@
       <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
         <li class="list-group-item">
+          Camera ready :
+          5<sup>th</sup> December 2024
+        </li>
+        <li class="list-group-item">
+          Registration deadline :
+          15<sup>th</sup> December 2024
+        </li>
+        <li class="list-group-item">
+          All the accepted paper should be present in physical mode only
+        </li>
+        <li class="list-group-item">
           Paper Submission starts :
           30<sup>th</sup> June 2024
         </li>
@@ -65,14 +78,12 @@
           <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)  
         </li>
         <li class="list-group-item">
-          Acceptance Notification : <s>31<sup>st</sup> October 2024</s> 15<sup>th</sup> November 2024
+          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
         </li>
         <li class="list-group-item">
-          Camera Ready Paper Submission : <s>15<sup>th</sup> November 2024</s> 30<sup>th</sup> November 2024
+          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024
         </li>
-        <li class="list-group-item">
-          Registration Deadline : <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
-        </li>
+        
       </ul>
       <!-- Text -->
       <hr class="my-3" />

@@ -39,9 +39,9 @@
           <slide>
             <!--First slide-->
             <div class="carousel-item active">
-            <img
+            <img  id="key-speaker"
                       class="card-img-top"
-                      src="@/assets/template2.png"
+                      src="@/assets/temp_key.svg"
                       alt="Card image cap"
                     />
                   </div>
@@ -142,11 +142,14 @@ export default {
   padding-left: 5px;
 }
 
-img {
+.card-img-top {
   max-height: 220px;
   height: 100%;
   width: 100%;
+  
 }
+
+
 
 marquee {
   padding-top: 5px;
@@ -160,6 +163,6 @@ marquee {
 }
 
 .marquee-content div {
-  margin-bottom: 5px; /* Creates space between lines */
+  margin-bottom: 5px; 
 }
 </style>
