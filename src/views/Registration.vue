@@ -8,9 +8,9 @@
           <strong>Registration</strong>
         </h2>
         <hr class="red title-hr" />
-        <!-- <p class="article">
+        <p class="article">
           Author/participants shall pay the registration fee directly to the bank account. The candidate shall send the filled registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t-2025@nitrr.ac.in</a> on or before
-          15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7e6RRqHsD3VG1_t1iiebYbei2lGXKxOnNqbIiuoCsZ2jwUg/viewform">clicking here</a> . The registration fee details and bank account details are given below.
+          15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/1s9cRpodVDLOAg0AIo19MUmUNwoetBhipJ4dicvYytZg/formrestricted">clicking here</a> . The registration fee details and bank account details are given below.
         </p>
         <h3>Registration Fees (Including GST  *)</h3>
 
@@ -52,16 +52,16 @@
                   <span class="table-head">Student/Research Scholar</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">8000/- </span>
+                  <span class="table-col">9440/- </span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$125</span>
+                  <span class="table-col">$250</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">11,800/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$135</span>
+                  <span class="table-col">$300</span>
                 </td>
               </tr>
               <tr>
@@ -69,16 +69,16 @@
                   <span class="table-head">Academician</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">11,800/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$150</span>
+                  <span class="table-col">$300</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10000/-</span>
+                  <span class="table-col">14,160/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$170</span>
+                  <span class="table-col">$350</span>
                 </td>
               </tr>
               <tr>
@@ -86,16 +86,16 @@
                   <span class="table-head">Industry</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9000/-</span>
+                  <span class="table-col">14,160/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$170</span>
+                  <span class="table-col">$350</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10000/-</span>
+                  <span class="table-col">16,520/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$185</span>
+                  <span class="table-col">$400</span>
                 </td>
               </tr>
             </tbody>
@@ -111,16 +111,15 @@
           <br/>
           
           <span>
-          Conference Attendees: INR 5500/USD 185</span>
+          Conference Attendees: INR 5500/USD 200</span>
           <br/>
          
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
         </p>
        <p class="red-text">
-          Account Number: 38027633250, IFSC: SBIN002852, SBI, Raipur
-        </p> -->
-               <!-- <h4>
+          Account Number: 38027633250, IFSC: SBIN0002852, SBI, Raipur
+        </p>  <h4>
             Account details of conference
         </h4>
          <ul style="list-style-type:none;line-height:1.5"></ul>
@@ -137,9 +136,9 @@
         <br>
         <h4>
             Publications Opportunities
-        </h4> -->
-        <!-- <p class="article">
-        <ul>
+        </h4> 
+        <p class="article">
+        <!-- <ul>
           <li>
             Based on the recommendations of the reviewer(s) the selected
             full-length articles may be published in SCI/SCIE indexed journals
@@ -150,10 +149,10 @@
           <li>
             Publication charges from Publishers end (if any) are to be borne by
             the authors.
-          </li>
-        </ul>
-       </p> -->
-       <!-- <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
+          </li> 
+        </ul> -->
+       </p> 
+       <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
@@ -163,13 +162,14 @@
 <li>The number of pages in the paper should not exceed <strong>six</strong> Papers submitted in the format other than IEEE will not be considered for the conference.</li>
 <li>The authors of the accepted papers will be invited for an oral presentation in the conference. All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed provided they meet the IEEE guidelines. Further,the registration of at least one author is compulsory for each paper.</li>
 <li>The eligible selected papers will be further review for a possible publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
-<li>Details of the online and offline mode of presentation will be made available in the ICPC<sup>2</sup>T 2025 conference website in program schedule. </li>
+<!-- <li>Details of the online and offline mode of presentation will be made available in the ICPC<sup>2</sup>T 2025 conference website in program schedule. </li> -->
         </ul>
-</p> -->
-<!-- <h4>CAMERA READY INSTRUCTIONS</h4>
-<p class="article red-text"><a href="/camera_ready_instructions_web.docx">Click here for CAMERA READY INSTRUCTIONS</a></p> -->
+ </p> 
+ 
+ <h4>CAMERA READY INSTRUCTIONS</h4>
+<p class="article red-text"><a href="/camera_ready_instructions_web.docx">Click here for CAMERA READY INSTRUCTIONS</a></p>
 
-<!-- <h4>
+ <h4>
   Previous conference proceedings links
 </h4>
 <ul>
@@ -180,7 +180,7 @@
 
 
 <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>
-<br>  -->
+<br> 
 <p class="article">Registration details will be updated soon.</p>
 
       </div>
