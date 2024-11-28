@@ -54,7 +54,7 @@
                   <div class="card mb-2">
                     <img
                       class="card-img-top"
-                      src="@/assets/nitfront.jpg"
+                      src="@/assets/nit-entrance.jpg"
                       alt="Card image cap"
                     />
                   </div>
@@ -143,10 +143,11 @@ export default {
 }
 
 .card-img-top {
-  max-height: 220px;
+/* max-width: 1350px; */
+  /* max-height: 520px; */
   height: 100%;
   width: 100%;
-  
+  max-height: 220px;
 }
 
 
