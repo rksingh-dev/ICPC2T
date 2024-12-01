@@ -37,84 +37,54 @@
           :autoplay="true"
         >
           <slide>
-            <!--First slide-->
+            <!-- First slide -->
             <div class="carousel-item active">
-            <img  id="key-speaker"
-                      class="card-img-top"
-                      src="@/assets/temp_key.svg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                  </slide>
-                  <slide>
-            <div class="carousel-item active">
-              
-              <div class="row">
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/nit-entrance.jpg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/GateNIT.jpg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/NIT.jpg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                </div>
-              </div>
+              <img id="key-speaker" class="card-img-top" src="@/assets/template2.png" alt="Card image cap" />
             </div>
-            <!--/.First slide-->
           </slide>
-          <slide>
-            <!--Third slide-->
+          <slide id="slide-2">
+            <!-- Second slide -->
             <div class="carousel-item active">
               <div class="row">
+                <div class="col-md-4 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="@/assets/nit-entrance.jpg" alt="Card image cap" />
+                  </div>
+                </div>
+                <div class="col-md-4 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="@/assets/GateNIT.jpg" alt="Card image cap" />
+                  </div>
+                </div>
                 <div class="col-md-4">
                   <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/nitnight.jpg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/nitnight gate.jpg"
-                      alt="Card image cap"
-                    />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img
-                      class="card-img-top"
-                      src="@/assets/nightground.jpg"
-                      alt="Card image cap"
-                    />
+                    <img class="card-img-top" src="@/assets/NIT.jpg" alt="Card image cap" />
                   </div>
                 </div>
               </div>
             </div>
-            <!--/.Third slide-->
+          </slide>
+          <slide id="slide-3">
+            <!-- Third slide -->
+            <div class="carousel-item active">
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="@/assets/nitnight.jpg" alt="Card image cap" />
+                  </div>
+                </div>
+                <div class="col-md-4 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="@/assets/nitnight gate.jpg" alt="Card image cap" />
+                  </div>
+                </div>
+                <div class="col-md-4 clearfix d-none d-md-block">
+                  <div class="card mb-2">
+                    <img class="card-img-top" src="@/assets/nightground.jpg" alt="Card image cap" />
+                  </div>
+                </div>
+              </div>
+            </div>
           </slide>
         </carousel>
       </div>
@@ -143,14 +113,19 @@ export default {
 }
 
 .card-img-top {
-/* max-width: 1350px; */
-  /* max-height: 520px; */
   height: 100%;
   width: 100%;
-  max-height: 220px;
 }
 
+#slide-2 img {
+  height: 300px; /* Slide 2 ke liye height set ki gayi */
+  width: auto;
+}
 
+#slide-3 img {
+  height: 300px; /* Slide 3 ke liye height set ki gayi */
+  width: auto;
+}
 
 marquee {
   padding-top: 5px;
@@ -164,6 +139,7 @@ marquee {
 }
 
 .marquee-content div {
-  margin-bottom: 5px; 
+  margin-bottom: 5px;
 }
 </style>
+

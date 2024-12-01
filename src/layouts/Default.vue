@@ -118,6 +118,9 @@
               <router-link class="nav-link" to="/partners"
                 >Partners</router-link
               >
+              <router-link class="nav-link" to="/tourist"
+                >Tours & Travells</router-link
+              >
 
               <router-link class="nav-link" to="/contact"
                 >Contact Us</router-link
