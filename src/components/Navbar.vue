@@ -102,12 +102,18 @@
 
               <a class="dropdown-item" href="#">Accomodation</a>
 
-              <a class="dropdown-item" href="#">Tourists Attraction</a>
+              
            </div>
           </li>  
-          <a class="nav-link">Downloads</a>
+          <a class="nav-link">Downloads</a> 
 
-          <a class="nav-link">Partners</a>
+           <a class="nav-link">Partners</a> 
+          <a class="nav-link" href="/tourist">Tourists Attraction</a>
+
+          <!-- <a href=""> Test </a> -->
+
+          <!-- <router-link class="nav-link" to="/tourist">Tourists Attraction</router-link> -->
+
 
           <a class="nav-link">Contact Us</a>
         </ul>

@@ -167,7 +167,7 @@
  </p> 
  
  <h4>CAMERA READY INSTRUCTIONS</h4>
-<p class="article red-text"><a href="/camera_ready_instructions_web.docx">Click here for CAMERA READY INSTRUCTIONS</a></p>
+<p class="article red-text"><a href="CAMERAREADY Instruction (2).pdf">Click here for CAMERA READY INSTRUCTIONS</a></p>
 
  <h4>
   Previous conference proceedings links
@@ -181,7 +181,7 @@
 
 <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>
 <br> 
-<p class="article">Registration details will be updated soon.</p>
+<p class="article"> </p>
 
       </div>
     </div>
