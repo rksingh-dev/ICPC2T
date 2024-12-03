@@ -118,14 +118,14 @@
           of Director -
         </p>
        <p class="red-text">
-          Account Number: 38027633250, IFSC: SBIN0002852, SBI, Raipur
+          Account Number: 30042955244, IFSC: SBIN0002852, SBI, Raipur
         </p>  <h4>
             Account details of conference
         </h4>
          <ul style="list-style-type:none;line-height:1.5"></ul>
         <table class="account_tables">
           <tr><td>Account Name</td><td> Director NIT Raipur </td></tr>
-          <tr><td>Account No.</td><td> 38027633250</td></tr>
+          <tr><td>Account No.</td><td> 30042955244</td></tr>
           <tr><td>IFSC Code</td><td> SBIN0002852</td></tr>
           <tr><td>Swift Code</td><td> SBININBB646</td></tr>
           <tr><td>Bank Name</td><td> State Bank of India</td></tr>
@@ -167,7 +167,7 @@
  </p> 
  
  <h4>CAMERA READY INSTRUCTIONS</h4>
-<p class="article red-text"><a href="/camera_ready_instructions_web.docx">Click here for CAMERA READY INSTRUCTIONS</a></p>
+<p class="article red-text"><a href="CAMERAREADY Instruction (2).pdf">Click here for CAMERA READY INSTRUCTIONS</a></p>
 
  <h4>
   Previous conference proceedings links
