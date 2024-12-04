@@ -27,5 +27,6 @@ export default {
 <style scoped>
 p {
   text-align: justify;
+  font-family: sans-serif;
 }
 </style>
