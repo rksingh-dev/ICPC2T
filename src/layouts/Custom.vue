@@ -41,6 +41,7 @@ export default {
   transform-origin: top;
   left: 0;
   right: 0;
+  width:fit-content;
   height: 5%;
   z-index: 999;
   text-transform: uppercase;

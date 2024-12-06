@@ -5,7 +5,7 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <!-- Title -->
-        
+
         <h2 class="font-weight-bold mt-3">
           <strong>About the Institution</strong>
         </h2>
@@ -57,9 +57,13 @@
         </p>
       </div>
       <div class="card card-body mb-5">
-      <p style="color:red">
-        All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed and the eligible presented papers in the conference may be further reviewed for their publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.
-      </p>
+        <p style="color:red">
+          All the registered and presented papers in the conference will only be
+          submitted to IEEE for their inclusion into IEEE Xplore which is Scopus
+          indexed and the eligible presented papers in the conference may be
+          further reviewed for their publication in the IEEE Transaction on
+          Industry Applications or IEEE IAS Magazine.
+        </p>
         <h4>Previous conference proceedings links</h4>
         <ul>
           <li>
@@ -100,9 +104,18 @@ export default {
   components: {},
 };
 </script>
+
 <style>
 .article {
   text-align: justify !important;
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
 }
 
+h2, h4, p, li {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
 </style>

@@ -20,6 +20,7 @@
               <tr>
                 <th class="tg-x75h" rowspan="2">
                   <span class="table-head">Category</span><br /><span
+
                     class="table-head"
                     >(Author)
                   </span>
@@ -181,7 +182,7 @@
 
 <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>
 <br> 
-<p class="article">Registration details will be updated soon.</p>
+<p class="article"> </p>
 
       </div>
     </div>

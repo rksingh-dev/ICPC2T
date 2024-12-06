@@ -4,6 +4,7 @@
     <div class="row mt-2 mb-5 pb-3 mx-2">
       <!-- Card -->
       <div class="card card-body mb-5">
+
         
        
         
@@ -48,6 +49,7 @@
 
           <h4>Step 6: Submission of the Copyright Form</h4>
           <p>After uploading the Camera-Ready Paper (the paper must have passed PDF Check in IEEE PDF eXpress), click on ‘Submit IEEE Copyright Form’ link to enter the IEEE Copyright Form Submission CMT page. Click on the IEEE copyright website link. Now, the author will be redirected to IEEE eCF site to submit copyright form. After filling out the IEEE Copyright Form on eCF website, authors need to download the form and upload it into CMT. Please note that the corresponding author can submit the copyright form for all the authors.</p>
+
         </div>
       </div>
     </div>
