@@ -57,14 +57,10 @@
         </p>
       </div>
       <div class="card card-body mb-5">
-        <p style="color:red">
-          All the registered and presented papers in the conference will only be
-          submitted to IEEE for their inclusion into IEEE Xplore which is Scopus
-          indexed and the eligible presented papers in the conference may be
-          further reviewed for their publication in the IEEE Transaction on
-          Industry Applications or IEEE IAS Magazine.
-        </p>
-        <h4>Previous conference proceedings links</h4>
+      <p style="color:red">
+        All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed and the eligible presented papers in the conference may be further reviewed for their publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.
+      </p>
+        <h4><b>Previous conference proceedings links</b></h4>
         <ul>
           <li>
             ICPC2T
@@ -104,13 +100,43 @@ export default {
   components: {},
 };
 </script>
+<style scoped>
+/* Optional: Add additional styling for full-width card */
+.card {
+  width: 100%; /* Ensures the card spans full width */
+}
 
-<style>
 .article {
-  text-align: justify !important;
-  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol";
+  font-size: 1.2rem;
+  line-height: 1.6;
+  width: 100%
+  ;
+}
+
+hr.red {
+  border: 1px solid red;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Media Query for screens larger than 1440px */
+@media (min-width: 1440px) {
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+  .card {
+    width: 100%; /* Ensures no width restriction */
+  }
 }
 
 h2, h4, p, li {
