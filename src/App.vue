@@ -134,9 +134,9 @@
                     >Accomodation</router-link
                   >
 
-                  <router-link class="dropdown-item" to="/tourist"
+                  <!-- <router-link class="nav-link" to="/tourist"
                     >Tourists Attraction</router-link
-                  >
+                  > -->
                 </div>
               </li>
               <router-link class="nav-link" to="/downloads"
@@ -150,6 +150,10 @@
               <router-link class="nav-link" to="/contact"
                 >Contact Us</router-link
               >
+              <router-link class="nav-link" to="/tourist"
+                >Tourist Attraction</router-link
+              >
+              
             </ul>
             <!-- Links -->
           </div>

@@ -165,6 +165,45 @@ export default {
 </script>
 
 <style scoped>
+.countdown-timer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.time-block {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.time {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d32f2f;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+ul.list-group {
+  padding-left: 0;
+}
+
+.list-group-item {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+.list-group-item:hover {
+  background-color: rgb(184, 221, 248);
+}
+
 img {
   width: 100%;
   height: 100%;
