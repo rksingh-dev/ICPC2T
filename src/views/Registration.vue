@@ -20,6 +20,7 @@
               <tr>
                 <th class="tg-x75h" rowspan="2">
                   <span class="table-head">Category</span><br /><span
+
                     class="table-head"
                     >(Author)
                   </span>
