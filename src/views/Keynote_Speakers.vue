@@ -193,13 +193,15 @@ export default {
 
   /* display: flex; */
   /* flex-wrap: wrap; */
+
   /* gap: 25px; */
 /* } */
+
 .speaker-card .left{
   margin: 0 auto;
   padding-left: 5px;
   height:fit-content;
-  width: 100%;
+  width: 70%;
   text-align: justify;
   text-justify: inter-word;
   
