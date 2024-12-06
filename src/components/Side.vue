@@ -86,7 +86,7 @@
         
       </ul>
       <!-- Text -->
-      <hr class="my-3" />
+    
       <!-- Jumbotron -->
     </section>
     <!-- Section: Advertisment -->
@@ -101,7 +101,7 @@
         </p>
       </div>
     </section> -->
-    <section class="section mb-5">
+    <!-- <section class="section mb-5">
       <h4 class="mt-2 text-center">
         <strong>TECHNICAL SPONSORS</strong>
       </h4>
@@ -147,7 +147,7 @@
           ></a>
         </p>
       </div>
-    </section>
+    </section> -->
   </div>
   <!-- Sidebar -->
 </template>

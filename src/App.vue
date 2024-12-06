@@ -203,7 +203,7 @@ a.router-link-exact-active {
 .banner {
   background: rgba(255, 255, 255, 0.8);
   margin: 0;
-  padding: 1em;
+  padding: 0;
 }
 [v-cloak] {
   display: none;

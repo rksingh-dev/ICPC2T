@@ -159,12 +159,13 @@ export default {
 .speaker-card{
   display: flex;
   /* flex-wrap: wrap; */
+width: 50%;
   gap: 15px;
 }
 .speaker-card .left{
   padding-left: 10px;
   height:fit-content;
-  width: 100%;
+  width: 70%;
   text-align: justify;
   text-justify: inter-word;
 }
