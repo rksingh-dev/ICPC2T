@@ -1146,7 +1146,8 @@
 .dropleft .dropdown-menu .dropdown-item:active,
 .dropright .dropdown-menu .dropdown-item:hover,
 .dropright .dropdown-menu .dropdown-item:active {
-  color: #fff !important; }
+  color: black !important ;
+font-weight: 500; }
 
 .rgba-white-slight,
 .rgba-white-slight:after {
@@ -3915,7 +3916,8 @@ table.table a.btn.btn-black {
     font-weight: 300; }
 
 .dropdown .dropdown-menu .dropdown-item:active {
-  background-color: #757575; }
+  background-color: #757575;
+}
 
 /*
 .navbar {
@@ -7311,6 +7313,7 @@ table.table a.btn.btn-whatsapp {
 .dropleft .dropdown-menu,
 .dropright .dropdown-menu {
   padding: 0.5rem; }
+
   .dropdown .dropdown-menu.dropdown-primary .dropdown-item:hover, .dropdown .dropdown-menu.dropdown-primary .dropdown-item:active, .dropdown .dropdown-menu.dropdown-primary .dropdown-item.active,
   .dropup .dropdown-menu.dropdown-primary .dropdown-item:hover,
   .dropup .dropdown-menu.dropdown-primary .dropdown-item:active,
@@ -7321,8 +7324,9 @@ table.table a.btn.btn-whatsapp {
   .dropright .dropdown-menu.dropdown-primary .dropdown-item:hover,
   .dropright .dropdown-menu.dropdown-primary .dropdown-item:active,
   .dropright .dropdown-menu.dropdown-primary .dropdown-item.active {
-    background-color: #4285f4 !important;
+    background-color: rgb(100, 148, 245) ;
     border-radius: 0.125rem;
+  
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15); }
     .dropdown .dropdown-menu.dropdown-primary .dropdown-item:hover.disabled, .dropdown .dropdown-menu.dropdown-primary .dropdown-item:active.disabled, .dropdown .dropdown-menu.dropdown-primary .dropdown-item.active.disabled,
     .dropup .dropdown-menu.dropdown-primary .dropdown-item:hover.disabled,
