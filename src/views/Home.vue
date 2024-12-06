@@ -1,4 +1,5 @@
 <template>
+
   <div>
     <section class="sections mb-5">
       <h4 class="font-weight-bold mt-3 text-center" id="head">
@@ -61,6 +62,7 @@
             </li>
           </ul>
         </div>
+
       </div>
     </div>
   <!-- </div> -->
@@ -73,6 +75,7 @@ export default {
   components: {},
 };
 </script>
+
 <style>
 #head {
   text-align: center;
@@ -122,6 +125,8 @@ export default {
 
 .red {
   color: #ff4444;
+
+
 }
 </style>
 

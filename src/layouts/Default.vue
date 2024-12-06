@@ -113,6 +113,9 @@
               <router-link class="nav-link " id="col"  to="/partners"
                 >Partners</router-link
               >
+              <router-link class="nav-link" to="/tourist"
+                >Tours & Travells</router-link
+              >
 
               <router-link class="nav-link" id="col" to="/contact"
                 >Contact Us</router-link
@@ -243,4 +246,6 @@ a.router-link-exact-active {
 [v-cloak] {
   display: none;
 }
+
 </style>
+

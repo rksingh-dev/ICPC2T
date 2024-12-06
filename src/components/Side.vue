@@ -1,168 +1,266 @@
 <template>
   <!-- Sidebar -->
   <div class="col-xl-4 col-md-12 widget-column mt-0">
-    <!-- Section: Categories -->
+    <!-- Countdown Timer -->
     <section class="section mb-5">
       <h4 class="mt-2 text-center">
-        <strong>ANNOUNCEMENT</strong>
+        <strong><b>COUNTDOWN TO EVENT</b></strong>
       </h4>
-
       <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text red-text">
-          <marquee
-            direction="up"
-            height="150px"
-            scrollamount="2"
-            scrolldelay="3"
-            onmouseover="this.stop();"
-            onmouseout="this.start();"
-          >
-          All the accepted papers should be presented in physical mode only.
-          <br/><br/>
-          <!-- Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>
-          <br/><br/> -->
-            <!-- Deadline for Full Paper Submission :
-            <s> 15<sup>th</sup> November 2023 </s>20<sup>th</sup> November 2023 (hard deadline)<br /><br />
-            Venue : Department of Electrical Engineering, National Institute of
-            Technology, Raipur, India
-            <br /><br />
-            Submission Information : The Conference Management Toolkit (CMT)
-            sponsored by Microsoft Research (<a
-              href="https://cmt3.research.microsoft.com/ICPC2T2024"
-              target="_blank"
-              >click here</a
-            >)
-            <br/><br/>
-            Sample for PPT template: <a href="/ICPC2T-2024.pptx">click here</a> -->
-            Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
-          Deadline for Full Paper Submission : <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)   <br /><br /> 
-          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024 <br /><br /> 
-          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024<br /><br /> 
-          Registration Deadline : <s>5<sup>th</sup> December 2024 </s> 15<sup>th</sup> December 2024 <br /><br /> 
-          </marquee>
-        </p>
+      <div class="table-responsive mt-4">
+        <table class="table table-bordered custom-table">
+          <thead class="thead-dark">
+            <tr>
+              <th class="text-center">Days</th>
+              <th class="text-center">Hours</th>
+              <th class="text-center">Minutes</th>
+              <th class="text-center">Seconds</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="text-center" style="color: red; font-weight: bold;">{{ days }}</td>
+              <td class="text-center" style="color: red; font-weight: bold;">{{ hours }}</td>
+              <td class="text-center" style="color: red; font-weight: bold;">{{ minutes }}</td>
+              <td class="text-center" style="color: red; font-weight: bold;">{{ seconds }}</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </section>
-    <!-- Section: Categories -->
 
     <hr class="my-3" />
-    <!-- Section: Advertisment -->
-    <section class="section mt-5">
-      <!-- Jumbotron -->
 
-      <h4 class="mt-2 text-center">
+
+    <!-- Announcements -->
+    <section class="section mb-5">
+      <h4 class="mt-2 text-center heading-font">
+        <strong>ANNOUNCEMENT</strong>
+
+      </h4>
+      <hr class="red title-hr" />
+      <div class="table-responsive mt-4">
+        <table class="table table-bordered custom-table">
+          <thead class="thead-dark">
+            <tr>
+              <th class="text-center">Details</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="color: red;">
+                <marquee
+                  direction="up"
+                  height="150px"
+                  scrollamount="2"
+                  scrolldelay="3"
+                  onmouseover="this.stop();"
+                  onmouseout="this.start();"
+                >
+                  All the accepted papers should be presented in physical mode only.
+                  <br /><br />
+                  Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
+                  Deadline for Full Paper Submission :
+                  <s>22<sup>nd</sup> October 2024</s> 30<sup>th</sup> October 2024 (hard deadline)
+                  <br /><br />
+                  Acceptance Notification :
+                  <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
+                  <br /><br />
+                  Camera Ready Paper Submission :
+                  <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
+                  <br /><br />
+                  Registration Deadline : 
+                  <s>5<sup>th</sup> December 2024</s> 15<sup>th</sup> December 2024
+                  <br /><br />
+                </marquee>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <hr class="my-3" />
+
+    <!-- Important Dates Section -->
+    <section class="section mb-5">
+      <h4 class="mt-2 text-center heading-font">
         <strong>IMPORTANT DATES</strong>
       </h4>
       <hr class="red title-hr" />
-      <ul class="list-group z-depth-1 mt-4">
-        <li class="list-group-item">
-          Camera ready :
-          5<sup>th</sup> December 2024
-        </li>
-        <li class="list-group-item">
-          Registration deadline :
-          15<sup>th</sup> December 2024
-        </li>
-        <li class="list-group-item">
-          All the accepted paper should be present in physical mode only
-        </li>
-        <li class="list-group-item">
-          Paper Submission starts :
-          30<sup>th</sup> June 2024
-        </li>
-        <li class="list-group-item">
-          Deadline for Full Paper Submission Extended to:
-          <!-- <s>30<sup>th</sup> August 2024</s>
-          <s>15<sup>th</sup> September 2024</s> -->
-          <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)  
-        </li>
-        <li class="list-group-item">
-          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
-        </li>
-        <li class="list-group-item">
-          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024
-        </li>
-        
-      </ul>
-      <!-- Text -->
-    
-      <!-- Jumbotron -->
+      <div class="table-responsive mt-4">
+        <table class="table table-bordered custom-table">
+          <thead class="thead-dark">
+            <tr>
+              <th class="text-center" colspan="2">Important Dates</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Camera ready:</strong></td>
+              <td>5<sup>th</sup> December 2024</td>
+            </tr>
+            <tr>
+              <td><strong>Registration deadline:</strong></td>
+              <td>15<sup>th</sup> December 2024</td>
+            </tr>
+            <tr>
+              <td><strong>Paper submission starts:</strong></td>
+              <td>30<sup>th</sup> June 2024</td>
+            </tr>
+            <tr>
+              <td><strong>Deadline for Full Paper Submission Extended to:</strong></td>
+              <td>
+                <s>22<sup>nd</sup> October 2024</s> 30<sup>th</sup> October 2024 (hard deadline)
+              </td>
+            </tr>
+            <tr>
+              <td><strong>Acceptance Notifications:</strong></td>
+              <td>
+                <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
+              </td>
+            </tr>
+            <tr>
+              <td><strong>Camera Ready Paper Submission:</strong></td>
+              <td>
+                <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
     </section>
-    <!-- Section: Advertisment -->
-    <!-- <section class="section mb-5">
-      <h4 class=" mt-2 text-center">
-        <strong>Our Partners</strong>
-      </h4>
+</div>
 
-      <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text red-text ">
-        </p>
-      </div>
-    </section> -->
-    <!-- <section class="section mb-5">
-      <h4 class="mt-2 text-center">
-        <strong>TECHNICAL SPONSORS</strong>
-      </h4>
-
-      <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text red-text">
-          <carousel
-            :per-page="1"
-            :mouse-drag="true"
-            :loop="true"
-            :autoplay="true"
-          >
-            <slide>
-              <img src="@/assets/partners/ieee_mp_section.jpg" alt="" />
-            </slide>
-            
-            <slide>
-              <img src="@/assets/partners/ieeespons.png" alt="" />
-            </slide>
-            
-            <slide>
-              <img src="@/assets/partners/pels.png" alt="" />
-            </slide>
-              <slide>
-              <img src="@/assets/partners/ias.png" alt="" />
-            </slide>
-          </carousel>
-        </p>
-      </div>
-    </section>
-    <section class="section mb-5">
-      <h4 class="mt-2 text-center">
-        <strong>BROCHURE</strong>
-      </h4>
-
-      <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text blue-text">
-          <a href="/brochure.pdf" target="_blank"
-            >Download ICPC<sup>2</sup>T 2025 - Brochure
-            <i class="fas fa-file-pdf"></i
-          ></a>
-        </p>
-      </div>
-    </section> -->
-  </div>
-  <!-- Sidebar -->
 </template>
 
 <script>
 export default {
   name: "Side",
+  data() {
+    return {
+      eventDate: new Date("2025-01-20T08:00:00"), // Event date
+      days: 0,
+      hours: 0,
+      minutes: 0,
+      seconds: 0,
+    };
+  },
+  mounted() {
+    this.startCountdown();
+  },
+  methods: {
+    startCountdown() {
+      setInterval(() => {
+        const now = new Date();
+        const timeDifference = this.eventDate - now;
+
+        if (timeDifference > 0) {
+          this.days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+          this.hours = Math.floor((timeDifference / (1000 * 60 * 60)) % 24);
+          this.minutes = Math.floor((timeDifference / (1000 * 60)) % 60);
+          this.seconds = Math.floor((timeDifference / 1000) % 60);
+        }
+      }, 1000);
+    },
+  },
 };
 </script>
+
 <style scoped>
+.countdown-timer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.time-block {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.time {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d32f2f;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+ul.list-group {
+  padding-left: 0;
+}
+
+.list-group-item {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+.list-group-item:hover {
+  background-color: rgb(184, 221, 248);
+}
+
 img {
   width: 100%;
   height: 100%;
 }
+
 li:hover {
   background-color: rgb(184, 221, 248);
+}
+
+.custom-font {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.heading-font {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: bold;
+}
+
+/* Custom Table Styling */
+.custom-table {
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+}
+
+.custom-table thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.custom-table th {
+  text-align: center;
+  padding: 10px;
+}
+
+.custom-table td {
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.custom-table td:first-child {
+  font-weight: bold;
+}
+
+.custom-table tbody tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+.custom-table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.custom-table tbody tr:hover {
+  background-color: #e9ecef;
 }
 </style>
