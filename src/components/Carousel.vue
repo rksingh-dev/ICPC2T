@@ -68,6 +68,8 @@
           />
         </div>
       </div>
+
+
     </div>
 
     <!-- Marquee -->
@@ -107,6 +109,7 @@ export default {
 }
 
 .card-img-top {
+
   width: 100%;
   height: auto;
   object-fit: cover;
@@ -124,6 +127,12 @@ export default {
   height: 50px;
   background-size: 100%; 
   transition: transform 0.3s ease, background-color 0.3s ease; 
+
+}
+
+#slide-2 img {
+  height: 300px; /* Slide 2 ke liye height set ki gayi */
+  width: auto;
 }
 
 
@@ -156,6 +165,7 @@ export default {
 }
 .brochure-button :hover.btn-primary:hover{
   color: rgb(198, 193, 193);
+
 }
 
 .marquee-style {
@@ -201,6 +211,7 @@ export default {
   text-decoration: none;
 }
 
+
 /* Keyframes for scrolling */
 @keyframes scroll-marquee {
   0% {
@@ -231,6 +242,7 @@ export default {
   .marquee-style {
     font-size: 1rem;
   }
+
 }
 </style>
 

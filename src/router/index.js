@@ -118,9 +118,10 @@ const routes = [
   },
   {
     path: '/tourist',
-    name: 'TouristAttraction',
+    name: 'Tours and Travel',
     component: TouristAttraction
   },
+  
   {
     path: '/accomodation',
     name: 'Accomodation',
