@@ -5,7 +5,7 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <!-- Title -->
-        
+
         <h2 class="font-weight-bold mt-3">
           <strong>About the Institution</strong>
         </h2>
@@ -139,4 +139,9 @@ hr.red {
   }
 }
 
+h2, h4, p, li {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
 </style>
