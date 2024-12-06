@@ -1,12 +1,11 @@
 <template>
   <!-- Sidebar -->
   <div class="col-xl-4 col-md-12 widget-column mt-0">
-    <!-- Section: Categories -->
+    <!-- Section: Announcement -->
     <section class="section mb-5">
       <h4 class="mt-2 text-center">
         <strong>ANNOUNCEMENT</strong>
       </h4>
-
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
         <p class="card-text red-text">
@@ -18,94 +17,69 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-          All the accepted papers should be presented in physical mode only.
-          <br/><br/>
-          <!-- Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25 : <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>
-          <br/><br/> -->
-            <!-- Deadline for Full Paper Submission :
-            <s> 15<sup>th</sup> November 2023 </s>20<sup>th</sup> November 2023 (hard deadline)<br /><br />
-            Venue : Department of Electrical Engineering, National Institute of
-            Technology, Raipur, India
-            <br /><br />
-            Submission Information : The Conference Management Toolkit (CMT)
-            sponsored by Microsoft Research (<a
-              href="https://cmt3.research.microsoft.com/ICPC2T2024"
-              target="_blank"
-              >click here</a
-            >)
-            <br/><br/>
-            Sample for PPT template: <a href="/ICPC2T-2024.pptx">click here</a> -->
-            Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
-          Deadline for Full Paper Submission : <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)   <br /><br /> 
-          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024 <br /><br /> 
-          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024<br /><br /> 
-          Registration Deadline : <s>5<sup>th</sup> December 2024 </s> 15<sup>th</sup> December 2024 <br /><br /> 
+            Paper Submission starts: 30<sup>th</sup> June 2024<br /><br />
+            Deadline for Full Paper Submission: <s>22<sup>nd</sup> October 2024</s>   
+            30<sup>th</sup> October 2024 (hard deadline)<br /><br /> 
+            Acceptance Notification: <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024<br /><br /> 
+            Camera Ready Paper Submission: <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024<br /><br /> 
+            Registration Deadline: <s>5<sup>th</sup> December 2024</s> 15<sup>th</sup> December 2024<br /><br /> 
           </marquee>
         </p>
       </div>
     </section>
-    <!-- Section: Categories -->
 
-    <hr class="my-3" />
-    <!-- Section: Advertisment -->
+    <!-- Section: Countdown Timer -->
+    <section class="section mb-5">
+      <h4 class="mt-2 text-center">
+        <strong>COUNTDOWN TO EVENT</strong>
+      </h4>
+      <hr class="red title-hr" />
+      <div class="card card-body text-center">
+        <div class="countdown-timer">
+          <div class="time-block">
+            <span class="time">{{ days }}</span>
+            <p>Days</p>
+          </div>
+          <div class="time-block">
+            <span class="time">{{ hours }}</span>
+            <p>Hours</p>
+          </div>
+          <div class="time-block">
+            <span class="time">{{ minutes }}</span>
+            <p>Minutes</p>
+          </div>
+          <div class="time-block">
+            <span class="time">{{ seconds }}</span>
+            <p>Seconds</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section: Important Dates -->
     <section class="section mt-5">
-      <!-- Jumbotron -->
-
       <h4 class="mt-2 text-center">
         <strong>IMPORTANT DATES</strong>
       </h4>
       <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
+        <li class="list-group-item">Camera ready: 5<sup>th</sup> December 2024</li>
+        <li class="list-group-item">Registration deadline: 15<sup>th</sup> December 2024</li>
+        <li class="list-group-item">Conference start date: 20<sup>th</sup> January 2025</li>
+        <li class="list-group-item">Paper Submission starts: 30<sup>th</sup> June 2024</li>
         <li class="list-group-item">
-          Camera ready :
-          5<sup>th</sup> December 2024
+          Deadline for Full Paper Submission Extended to: 
+          <s>22<sup>nd</sup> October 2024</s> 30<sup>th</sup> October 2024 (hard deadline)
         </li>
-        <li class="list-group-item">
-          Registration deadline :
-          15<sup>th</sup> December 2024
-        </li>
-        <li class="list-group-item">
-          All the accepted paper should be present in physical mode only
-        </li>
-        <li class="list-group-item">
-          Paper Submission starts :
-          30<sup>th</sup> June 2024
-        </li>
-        <li class="list-group-item">
-          Deadline for Full Paper Submission Extended to:
-          <!-- <s>30<sup>th</sup> August 2024</s>
-          <s>15<sup>th</sup> September 2024</s> -->
-          <s> 22<sup>nd</sup> October 2024 </s>   30<sup>th</sup> October 2024 (hard deadline)  
-        </li>
-        <li class="list-group-item">
-          Acceptance Notification : <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
-        </li>
-        <li class="list-group-item">
-          Camera Ready Paper Submission :  <s>30<sup>th</sup> November 2024 </s> 5<sup>th</sup> December 2024
-        </li>
-        
+        <li class="list-group-item">Acceptance Notification: <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024</li>
       </ul>
-      <!-- Text -->
-      <hr class="my-3" />
-      <!-- Jumbotron -->
     </section>
-    <!-- Section: Advertisment -->
-    <!-- <section class="section mb-5">
-      <h4 class=" mt-2 text-center">
-        <strong>Our Partners</strong>
-      </h4>
 
-      <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text red-text ">
-        </p>
-      </div>
-    </section> -->
+    <!-- Section: Technical Sponsors -->
     <section class="section mb-5">
       <h4 class="mt-2 text-center">
         <strong>TECHNICAL SPONSORS</strong>
       </h4>
-
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
         <p class="card-text red-text">
@@ -118,51 +92,97 @@
             <slide>
               <img src="@/assets/partners/ieee_mp_section.jpg" alt="" />
             </slide>
-            
             <slide>
               <img src="@/assets/partners/ieeespons.png" alt="" />
             </slide>
-            
             <slide>
               <img src="@/assets/partners/pels.png" alt="" />
             </slide>
-              <slide>
+            <slide>
               <img src="@/assets/partners/ias.png" alt="" />
             </slide>
           </carousel>
         </p>
       </div>
     </section>
-    <section class="section mb-5">
-      <h4 class="mt-2 text-center">
-        <strong>BROCHURE</strong>
-      </h4>
-
-      <hr class="red title-hr" />
-      <div class="card card-body d-flex text-center">
-        <p class="card-text blue-text">
-          <a href="/brochure.pdf" target="_blank"
-            >Download ICPC<sup>2</sup>T 2025 - Brochure
-            <i class="fas fa-file-pdf"></i
-          ></a>
-        </p>
-      </div>
-    </section>
   </div>
-  <!-- Sidebar -->
 </template>
 
 <script>
 export default {
   name: "Side",
+  data() {
+    return {
+      eventDate: new Date("2025-01-20T00:00:00"), // Conference start date
+      days: 0,
+      hours: 0,
+      minutes: 0,
+      seconds: 0,
+    };
+  },
+  mounted() {
+    this.startCountdown();
+  },
+  methods: {
+    startCountdown() {
+      setInterval(() => {
+        const now = new Date();
+        const timeDifference = this.eventDate - now;
+
+        if (timeDifference > 0) {
+          this.days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+          this.hours = Math.floor((timeDifference / (1000 * 60 * 60)) % 24);
+          this.minutes = Math.floor((timeDifference / (1000 * 60)) % 60);
+          this.seconds = Math.floor((timeDifference / 1000) % 60);
+        }
+      }, 1000);
+    },
+  },
 };
 </script>
+
 <style scoped>
+.countdown-timer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.time-block {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.time {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d32f2f;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+ul.list-group {
+  padding-left: 0;
+}
+
+.list-group-item {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+.list-group-item:hover {
+  background-color: rgb(184, 221, 248);
+}
+
 img {
   width: 100%;
   height: 100%;
-}
-li:hover {
-  background-color: rgb(184, 221, 248);
 }
 </style>
