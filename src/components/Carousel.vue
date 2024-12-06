@@ -1,97 +1,97 @@
 <template>
-  <div>
-    <marquee
-      behavior=""
-      direction=""
-      class="red-text"
-      onmouseover="this.stop();"
-      onmouseout="this.start();"
-    >
-      <div class="marquee-content">
-        <div>
-          Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25: 
-          <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>.
-        </div>
-        <div>
-          ICPC2T is now accepting papers in the approved special sessions, and papers can be submitted on the 
-          <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">paper submission portal</a>.
-        </div>
-        <div>
-           CMT link for paper submission
-          <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">click here</a>.
-        </div>
+  <div id="carousel-main-div-for-spacing" class="position-relative">
+    <!-- Carousel -->
+    <div id="carousel-example-1z" class="carousel slide" data-ride="carousel">
+      <!-- Brochure Button -->
+      <div class="brochure-button">
+        <a href="./brochure.pdf" id="btn" ><button class="btn btn-primary">Brochure</button></a>
       </div>
-    </marquee>
 
-    <div id="carousel-main-div-for-spacing">
-      <!-- Carousel Wrapper -->
-      <div
-        id="carousel-example-1z"
-        class="carousel slide carousel-fade"
-        data-ride="carousel"
+      <!-- Arrows -->
+      <a
+        class="carousel-control-prev"
+        href="#carousel-example-1z"
+        role="button"
+        data-slide="prev"
       >
-        <carousel
-          :per-page="1"
-          :mouse-drag="true"
-          :loop="true"
-          :autoplay="true"
-        >
-          <slide>
-            <!-- First slide -->
-            <div class="carousel-item active">
-              <img id="key-speaker" class="card-img-top" src="@/assets/template2.png" alt="Card image cap" />
-            </div>
-          </slide>
-          <slide id="slide-2">
-            <!-- Second slide -->
-            <div class="carousel-item active">
-              <div class="row">
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/nit-entrance.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/GateNIT.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/NIT.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </slide>
-          <slide id="slide-3">
-            <!-- Third slide -->
-            <div class="carousel-item active">
-              <div class="row">
-                <div class="col-md-4">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/nitnight.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/nitnight gate.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-                <div class="col-md-4 clearfix d-none d-md-block">
-                  <div class="card mb-2">
-                    <img class="card-img-top" src="@/assets/nightground.jpg" alt="Card image cap" />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </slide>
-        </carousel>
+        <span
+          class="carousel-control-prev-icon"
+          aria-hidden="true"
+        ></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a
+        class="carousel-control-next"
+        href="#carousel-example-1z"
+        role="button"
+        data-slide="next"
+      >
+        <span
+          class="carousel-control-next-icon"
+          aria-hidden="true"
+        ></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+      <!-- Slides -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img
+            id="key-speaker"
+            class="card-img-top"
+            src="@/assets/temp_key.svg"
+            alt="Slide 1"
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            id="key-speaker"
+            class="card-img-top"
+            src="@/assets/temp_key.svg"
+            alt="Slide 2"
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            id="key-speaker"
+            class="card-img-top"
+            src="@/assets/temp_key.svg"
+            alt="Slide 3"
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            id="key-speaker"
+            class="card-img-top"
+            src="@/assets/temp_key.svg"
+            alt="Slide 4"
+          />
+        </div>
       </div>
-      <!-- Carousel Wrapper -->
+
+
     </div>
+
+    <!-- Marquee -->
+    <div class="marquee-style">
+  <div class="marquee-content">
+    <div class="marquee-item">
+      Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25:
+      <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>.
+    </div>
+    <div class="marquee-item">
+      ICPC2T is now accepting papers in the approved special sessions, and papers can be submitted on the
+      <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">paper submission portal</a>.
+    </div>
+ 
+  </div>
+</div>
+
+
   </div>
 </template>
+
+
 
 <script>
 export default {
@@ -100,21 +100,34 @@ export default {
 </script>
 
 <style scoped>
-#carousel-main-div-for-spacing {
-  margin-right: 50px;
-  margin-left: 50px;
-}
 
-.col-md-4 {
-  padding-top: 0;
-  padding-right: 5px;
-  padding-bottom: 0;
-  padding-left: 5px;
+#carousel-main-div-for-spacing {
+  margin: 50px auto;
+  max-width: 1300px;
+  width: 100%;
+  position: relative;
 }
 
 .card-img-top {
-  height: 100%;
+
   width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.carousel-inner img {
+  object-fit: cover;
+  max-height: 600px;
+}
+
+/* Styling the Arrows */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 50px;
+  height: 50px;
+  background-size: 100%; 
+  transition: transform 0.3s ease, background-color 0.3s ease; 
+
 }
 
 #slide-2 img {
@@ -122,23 +135,114 @@ export default {
   width: auto;
 }
 
-#slide-3 img {
-  height: 300px; /* Slide 3 ke liye height set ki gayi */
-  width: auto;
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+  transform: scale(1.3); 
+  background-color: rgba(0, 0, 0, 0.2); 
+  border-radius: 50%; 
+}
+#btn, a{
+  text-decoration: none !important;
 }
 
-marquee {
-  padding-top: 5px;
-  padding-bottom: 4px;
-  font-size: 15px;
-  font-weight: 400;
+.brochure-button {
+  position: absolute;
+  top: 94%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
 }
+
+.brochure-button .btn-primary {
+  font-size: 18px;
+  padding: 10px 20px;
+  white-space: nowrap;
+  background-color: rgb(99, 53, 250) !important;
+  border: 1px solid rgb(57, 0, 243) ;
+  color:white;
+
+}
+.brochure-button :hover.btn-primary:hover{
+  color: rgb(198, 193, 193);
+
+}
+
+.marquee-style {
+  
+  color: white;
+  background-color: rgb(57, 0, 243); 
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px 0;
+  overflow: hidden;
+  white-space: nowrap;
+  border: 2px solid rgb(99, 53, 250); 
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  position: relative;
+  height: 4em; 
+}
+
 
 .marquee-content {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  gap: 0; 
+  position: absolute;
+  width: 100%; 
+  animation: scroll-marquee 20s linear infinite;
 }
 
-.marquee-content div {
-  margin-bottom: 5px;
+/* Individual marquee items */
+.marquee-item {
+  display: block;
+  text-align: left;
+  padding: 0 20px;
+  white-space: nowrap;
+}
+
+.marquee-item a {
+  color: rgb(255, 255, 0); 
+  text-decoration: underline;
+}
+
+.marquee-item a:hover {
+  color: rgb(255, 204, 0); 
+  text-decoration: none;
+}
+
+
+/* Keyframes for scrolling */
+@keyframes scroll-marquee {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+
+
+
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .brochure-button .btn-primary {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+  .marquee-style {
+    font-size: 1rem;
+  }
+
 }
 </style>
+

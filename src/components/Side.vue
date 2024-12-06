@@ -31,10 +31,12 @@
 
     <hr class="my-3" />
 
+
     <!-- Announcements -->
     <section class="section mb-5">
       <h4 class="mt-2 text-center heading-font">
         <strong>ANNOUNCEMENT</strong>
+
       </h4>
       <hr class="red title-hr" />
       <div class="table-responsive mt-4">
@@ -127,8 +129,10 @@
           </tbody>
         </table>
       </div>
+
     </section>
 </div>
+
 </template>
 
 <script>

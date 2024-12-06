@@ -2,18 +2,13 @@
   <div id="app">
     <!-- Navigation -->
     <div v-cloak>
-      <header class="">
+      <header>
         <div class="banner">
           <img src="../assets/header.svg" alt="" />
         </div>
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark unique-color ">
-          <!-- Navbar brand -->
-          <router-link class="navbar-brand" to="/"
-            >ICPC<sup>2</sup>T</router-link
-          >
-
-          <!-- Collapse button -->
+        <nav class="navbar navbar-expand-lg navbar-dark" id="nav">
+          <router-link class="navbar-brand" id="col" to="/">ICPC<sup>2</sup>T</router-link>
           <button
             class="navbar-toggler"
             type="button"
@@ -25,43 +20,41 @@
           >
             <span class="navbar-toggler-icon"></span>
           </button>
-
-          <!-- Collapsible content -->
-          <div class="collapse navbar-collapse" id="navbarSupportedContent" :key="$route.path" >
-            <!-- Links -->
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" :key="$route.path">
             <ul class="navbar-nav mr-auto">
-              <!-- Dropdown -->
-              <li class="nav-item dropdown">
+             <!-- Dropdown -->
+             <li class="nav-item dropdown" id="col">
                 <a
-                  class="nav-link dropdown-toggle"
+                  class="nav-link dropdown-toggle col"
                   id="navbarDropdownMenuLink"
                   data-toggle="dropdown"
                   aria-haspopup="true"
                   aria-expanded="true"
+                  
                   >Committees</a
                 >
 
                 <div
                   class="dropdown-menu dropdown-primary"
-                  aria-labelledby="navbarDropdownMenuLink"
+                  aria-labelledby="navbarDropdownMenuLink" 
                 >
-                  <router-link class="dropdown-item" to="/advisory"
+                  <router-link class="dropdown-item" id="dropmenu" to="/advisory"
                     >Advisory Committee</router-link
                   >
-
-                  <router-link class="dropdown-item" to="/organising"
+                  <hr/>
+                  <router-link class="dropdown-item" id="dropmenu" to="/organising"
                     >Organizing Committee</router-link
                   >
-
-                  <router-link class="dropdown-item" to="/technical"
+                  <hr/>
+                  <router-link class="dropdown-item" id="dropmenu" to="/technical"
                     >Technical Program Committee</router-link
                   >
                 </div>
               </li>
 
-              <li class="nav-item dropdown">
+              <li class="nav-item dropdown" id="col">
                 <a
-                  class="nav-link dropdown-toggle"
+                  class="nav-link dropdown-toggle "
                   id="navbarDropdownMenuLink"
                   data-toggle="dropdown"
                   aria-haspopup="true"
@@ -73,90 +66,97 @@
                   class="dropdown-menu dropdown-primary"
                   aria-labelledby="navbarDropdownMenuLink"
                 >
-                  <router-link class="dropdown-item" to="/call-for-papers"
+                  <router-link class="dropdown-item" id="dropmenu"  to="/call-for-papers"
                     >Call for Papers</router-link
                   >
-
-                  <router-link class="dropdown-item" to="/tracks"
+<hr/>
+                  <router-link class="dropdown-item" id="dropmenu" to="/tracks"
                     >Tracks / Topics</router-link
                   >
-                  <router-link class="dropdown-item" to="/camerareadysubmission"
+                  <hr/>
+                  <router-link class="dropdown-item" id="dropmenu"  to="/camerareadysubmission"
                     >Camera Ready Submission Instructions</router-link
                   >
-                  <router-link class="dropdown-item" to="/Special"
+                  <hr/>
+                  <router-link class="dropdown-item" id="dropmenu" to="/Special"
                     >Special Session</router-link
                   >
       
                 </div>
               </li>
 
-              <router-link class="nav-link" to="/speakers"
+              <router-link class="nav-link" id="col" to="/speakers"
                 >Keynote Speakers</router-link
               >
-
-              <router-link class="nav-link" to="/schedule"
+              
+              <router-link class="nav-link" id="col" to="/schedule"
                 >Program Schedule</router-link
               >
 
-              <router-link class="nav-link" to="/workshops"
+              <router-link class="nav-link " id="col" to="/workshops"
                 >Workshops</router-link
               >
 
-              <router-link class="nav-link" to="/registration"
+              <router-link class="nav-link " id="col" to="/registration"
                 >Registration</router-link
               >
-             <router-link class="nav-link" to="/accomodation"
+             <router-link class="nav-link"  id="col" to="/accomodation"
                 >Accomodation</router-link
               >
-              <router-link class="nav-link" to="/pptguidelines"
+              <router-link class="nav-link " id="col"  to="/pptguidelines"
                 >PPT Guidelines</router-link
               >
-              <router-link class="nav-link" to="/downloads"
+              <router-link class="nav-link "  id="col" to="/downloads"
                 >Downloads</router-link
               >
 
-              <router-link class="nav-link" to="/partners"
+              <router-link class="nav-link " id="col"  to="/partners"
                 >Partners</router-link
               >
               <router-link class="nav-link" to="/tourist"
                 >Tours & Travells</router-link
               >
 
-              <router-link class="nav-link" to="/contact"
+              <router-link class="nav-link" id="col" to="/contact"
                 >Contact Us</router-link
               >
             </ul>
-            <!-- Links -->
           </div>
-          <!-- Collapsible content -->
         </nav>
-        <!-- Navbar -->
       </header>
-      <!-- Navigation -->
+
+      <!-- Carousel -->
       <Carousel />
+
       <!-- Main layout -->
       <main>
-        <div class="container-fluid">
-          <!-- Magazine -->
-          <div class="row mt-2">
+        <div class="content-container">
+          <!-- Left Section -->
+          <div class="home-content">
             <slot />
-            <Side />
           </div>
-          <!-- Magazine -->
+          
+          <Side />
+          <!-- Right Section -->
+          
         </div>
       </main>
+      
+      <!-- Footer -->
       <Footer />
     </div>
   </div>
 </template>
+
 <script>
 import Side from "../components/Side.vue";
-import Carousel from "../components/Carousel.vue";
-
+ import Carousel from "../components/Carousel.vue";
+// import Home from "../views/Home.vue";
 import Footer from "../components/Footer.vue";
 export default {
   name: "App",
   components: {
+    // Home,
     Side,
     Carousel,
     Footer,
@@ -176,25 +176,76 @@ a.router-link-exact-active {
   border-bottom: 3px solid;
   text-decoration-color: 5px solid rgb(255, 255, 255);
 }
+
 .sampleContent {
   padding: 4em 0 4em 0;
 }
 
-.banner {
-  background: rgba(255, 255, 255, 0.8);
-  margin: 0;
-  padding: 1em;
+#nav {
+  background-color: rgb(135, 169, 242);
+  border-radius: 5px;
 }
-.banner img{
-  width:100%;
 
+#col {
+  color: black;
+  font-weight: 500;
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+#col:hover {
+  color: rgb(59, 58, 58) !important;
+}
+
+/* Banner Styling */
+.banner img {
+  width: 100%;
+}
+
+/* Main Content Container */
+.content-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+/* Sidebar (Side Component) */
+.content-container > Side {
+  flex: 0 0 300px;
+  max-width: 300px;
+  background-color: #f0f0f0;
+  height: auto;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+/* Home Component */
+.home-content {
+  flex: 1; /* Takes remaining space */
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+/* Responsive Design: Switch to column layout on smaller screens */
+@media (max-width: 768px) {
+  .content-container {
+    flex-direction: column; /* Switches layout to column */
   }
+
+  .content-container > Side {
+    max-width: 100%; /* Sidebar takes full width */
+    flex: 1; /* Adjust to fill available space */
+  }
+
+  .home-content {
+    max-width: 100%; /* Home content takes full width */
+    flex: 1; /* Adjust to fill available space */
+  }
+}
+
+/* Hide elements while Vue is processing */
 [v-cloak] {
   display: none;
 }
-@media (max-width: 1600px) {
-  main {
-    padding-top: 0px;
-  }
-}
+
 </style>
+
