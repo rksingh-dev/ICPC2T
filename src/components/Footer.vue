@@ -101,8 +101,8 @@
         <div class="col text-center">
           <p class="black-text">
             © 2024 Copyright:
-            <a href="http://nitrr.ac.in" target="_blank" class="black-text">
-              National Institute of Technology Raipur
+           <a href="http://nitrr.ac.in" target="_blank" class="black-text"><strong>
+              National Institute of Technology Raipur</strong>
             </a>
           </p>
         </div>
@@ -130,9 +130,10 @@ export default {
   margin-bottom: 6px;
 }
 
-a.black-text {
+a.black-text, .black-text {
   color: black;
   text-decoration: none;
+  font-weight: 400 !important;;
 }
 
 a.black-text:hover {

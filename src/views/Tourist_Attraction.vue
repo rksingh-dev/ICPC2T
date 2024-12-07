@@ -211,6 +211,11 @@ export default {
 </script>
 
 <style scoped>
+.card{
+  margin-left: -150px;
+  max-width: 1200px !important;
+  padding: 0 20px;
+}
 .destination-img {
   height: 300px;
   width: 200px;
@@ -223,9 +228,19 @@ export default {
 .speaker-card .left {
   text-align: justify;
 }
-@media (max-width: 800px) {
+@media(max-width:1350px)
+{
+  .card{
+    margin-left:-50px
+  }
+}
+@media (max-width: 1000px) {
   .speaker-card {
     flex-direction: column;
+  }
+  .card{
+    margin-left:0px;
+   
   }
 }
 </style>

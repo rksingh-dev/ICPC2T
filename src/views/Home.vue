@@ -65,7 +65,7 @@
 
       </div>
     </div>
-  <!-- </div> -->
+
 </template>
 
 
@@ -77,12 +77,12 @@ export default {
 </script>
 
 <style>
-#head {
+h2,h4 {
   text-align: center;
   font-weight: bold;
-  font-size: 1.5rem; /* Adjust as needed */
+  font-size: 1.5rem; 
   font-family: 'Arial', sans-serif;
-  color: #0056b3; /* Use a blue shade for emphasis */
+  color: #0056b3;
   text-transform: uppercase;
   letter-spacing: 1.5px;
   margin-top: 20px;
@@ -92,7 +92,7 @@ export default {
   border: none;
   height: 4px;
   width: 100px;
-  background-color: #0056b3; /* Same color as the heading */
+  background-color: #0056b3; 
   margin: 10px auto;
 }
 
@@ -102,7 +102,7 @@ export default {
 
 .article {
   text-align: justify;
-  font-size: 1rem; /* Adjust as per your site's font size */
+  font-size: 1rem; 
   line-height: 1.6;
 }
 
@@ -127,6 +127,26 @@ export default {
   color: #ff4444;
 
 
+}
+.card{
+  margin-left: -150px;
+  max-width: 1200px !important;
+  padding: 0 20px;
+
+}
+@media (max-width: 1450px) {
+  
+  .card{
+    margin-left: -50px;
+  }
+  
+}
+@media (max-width: 1000px) {
+  
+  .card{
+    margin-left: 0px;
+  }
+  
 }
 </style>
 

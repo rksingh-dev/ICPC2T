@@ -69,7 +69,7 @@
                   <router-link class="dropdown-item" id="dropmenu"  to="/call-for-papers"
                     >Call for Papers</router-link
                   >
-<hr/>
+                  <hr/>
                   <router-link class="dropdown-item" id="dropmenu" to="/tracks"
                     >Tracks / Topics</router-link
                   >
@@ -113,11 +113,11 @@
               <router-link class="nav-link " id="col"  to="/partners"
                 >Partners</router-link
               >
-              <router-link class="nav-link" to="/tourist"
-                >Tours & Travells</router-link
+             
+              <router-link class="nav-link" id="col" to="/tourist"
+                >Tours & Travels</router-link
               >
-
-              <router-link class="nav-link" id="col" to="/contact"
+              <router-link class="nav-link " id="col"  to="/contact"
                 >Contact Us</router-link
               >
             </ul>
@@ -205,7 +205,7 @@ a.router-link-exact-active {
 .content-container {
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  /* gap: 20px; */
 }
 
 /* Sidebar (Side Component) */
@@ -218,34 +218,82 @@ a.router-link-exact-active {
   padding: 10px;
 }
 
-/* Home Component */
+
 .home-content {
-  flex: 1; /* Takes remaining space */
+  flex: 1; 
   padding: 20px;
   background-color: #ffffff;
 }
 
-/* Responsive Design: Switch to column layout on smaller screens */
+#nav {
+  background-color: rgb(135, 169, 242);
+  border-radius: 5px;
+  display: flex; 
+  align-items: center !important; 
+  justify-content: space-between !important; 
+  padding: 5px 15px; 
+}
+
+#col {
+  color: black;
+  font-weight: 500;
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  padding: 20px 5px !important;
+}
+
+#col:hover {
+  color: rgb(59, 58, 58) !important;
+ 
+}
+
+/* Dropdown Menu Styling */
+.dropdown-menu {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.dropdown-item {
+  color: black;
+  padding: 5px 10px !important;
+}
+
+.dropdown-item:hover {
+  background-color: rgba(135, 169, 242, 0.2);
+}
+
+/* Navbar Brand Styling */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black !important;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+/* .navbar-toggler-icon {
+  background-color: black; 
+} */
+
 @media (max-width: 768px) {
   .content-container {
-    flex-direction: column; /* Switches layout to column */
+    flex-direction: column;
   }
 
   .content-container > Side {
-    max-width: 100%; /* Sidebar takes full width */
-    flex: 1; /* Adjust to fill available space */
+    max-width: 100%;
+    flex: 1; 
   }
 
   .home-content {
-    max-width: 100%; /* Home content takes full width */
-    flex: 1; /* Adjust to fill available space */
+    max-width: 100%;
+    flex: 1; 
   }
 }
 
-/* Hide elements while Vue is processing */
+
 [v-cloak] {
   display: none;
 }
-
 </style>
-
