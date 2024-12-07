@@ -47,7 +47,7 @@
           <img
             id="key-speaker"
             class="card-img-top"
-            src="@/assets/temp_key.svg"
+            src="@/assets/p4.svg"
             alt="Slide 2"
           />
         </div>
@@ -55,7 +55,7 @@
           <img
             id="key-speaker"
             class="card-img-top"
-            src="@/assets/temp_key.svg"
+            src="@/assets/p2.svg"
             alt="Slide 3"
           />
         </div>
@@ -63,7 +63,15 @@
           <img
             id="key-speaker"
             class="card-img-top"
-            src="@/assets/temp_key.svg"
+            src="@/assets/p3.svg"
+            alt="Slide 4"
+          />
+        </div>
+        <div class="carousel-item">
+          <img
+            id="key-speaker"
+            class="card-img-top"
+            src="@/assets/p5.svg"
             alt="Slide 4"
           />
         </div>
