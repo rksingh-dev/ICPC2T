@@ -252,5 +252,20 @@ export default {
   }
 
 }
+@media (max-width: 400px) {
+ 
+.brochure-button{
+  top: 90%;
+}
+.brochure-button .btn-primary {
+    font-size: 10px;
+    padding: 4px 10px;
+  }
+  .marquee-style{
+    font-size: 0.8rem;
+    padding: 5px 0;
+  }
+
+}
 </style>
 

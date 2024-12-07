@@ -44,7 +44,7 @@
           <h4>Step 5: Camera Ready Paper Submission</h4>
           <p>Submit the Camera-Ready Paper (after passing PDF check) through the author console in CMT. Please change the file name to <strong>PIDxxx</strong> (where xxx is your paper ID in CMT) before submission to CMT. Please note that authors are expected to retain the title of the original paper in the final paper. Also, the author list and order in the original paper cannot be changed in the final manuscript.</p>
           <p class="step5_red" style="color: red;">Note: please make sure before submitting the camera-ready paper you have approved the generated pdf in PDF eXpress.</p>
-          <img src="../assets/cameraready.png" alt="" />
+          <img src="../assets/cameraready.png" alt="camera" />
 
 
           <h4>Step 6: Submission of the Copyright Form</h4>
@@ -80,4 +80,21 @@ p {
 .submission-instructions ol, .submission-instructions ul {
   margin-left: 20px;
 }
+img[alt="camera"] {
+  width: 500px;
+}
+
+@media(max-width: 500px)
+{
+  img[alt="camera"] {
+  width: 300px;;
+}
+}
+@media(max-width: 400px)
+{
+  img[alt="camera"] {
+  width: 250px;;
+}
+}
+
 </style>
