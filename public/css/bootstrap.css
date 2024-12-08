@@ -4257,6 +4257,7 @@ input[type="button"].btn-block {
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
+
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
@@ -4271,6 +4272,7 @@ input[type="button"].btn-block {
   content: "";
   background: no-repeat center center;
   background-size: 100% 100%;
+  
 }
 
 @media (max-width: 575.98px) {

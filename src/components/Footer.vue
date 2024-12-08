@@ -101,9 +101,9 @@
         <div class="col text-center">
           <p class="black-text">
             © 2023 Copyright:
-            <a href="http://nitrr.ac.in" target="_blank" class="black-text">
+            <strong><a href="http://nitrr.ac.in" target="_blank" class="black-text">
               National Institute of Technology Raipur
-            </a>
+            </a></strong>
           </p>
         </div>
       </div>
@@ -123,12 +123,14 @@ export default {
   background-color: rgb(135, 169, 242);
   color: black;
   padding: 20px 15px; /* Added left/right padding */
+  font-weight: 400;
 }
 
 .footer-section {
   margin-bottom: 20px;
   padding-left: 10px;
-  padding-right: 10px; /* Added padding for both sides */
+  padding-right: 10px; 
+
 }
 
 a.black-text {
@@ -156,7 +158,7 @@ hr {
 
 @media (max-width: 768px) {
   .footer-section {
-    text-align: left; /* Left-align sections on tablets */
+    text-align: left; 
   }
 }
 

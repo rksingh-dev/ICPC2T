@@ -130,7 +130,7 @@ export default {
   name: "Side",
   data() {
     return {
-      eventDate: new Date("2025-01-20T08:00:00"), // Event date
+      eventDate: new Date("2025-01-20T08:00:00"), 
       days: 0,
       hours: 0,
       minutes: 0,
@@ -159,7 +159,100 @@ export default {
 </script>
 
 <style scoped>
-/* Add the provided styles here */
+.countdown-timer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.time-block {
+  text-align: center;
+  margin: 0 10px;
+}
+
+.time {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d32f2f;
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+ul.list-group {
+  padding-left: 0;
+}
+
+.list-group-item {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+.list-group-item:hover {
+  background-color: rgb(184, 221, 248);
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+li:hover {
+  background-color: rgb(184, 221, 248);
+}
+
+.custom-font {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.heading-font {
+  font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: bold;
+}
+
+/* Custom Table Styling */
+.custom-table {
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+}
+
+.custom-table thead {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.custom-table th {
+  text-align: center;
+  padding: 10px;
+}
+
+.custom-table td {
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.custom-table td:first-child {
+  font-weight: bold;
+}
+
+.custom-table tbody tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+.custom-table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.custom-table tbody tr:hover {
+  background-color: #e9ecef;
+}
 
 </style>
 

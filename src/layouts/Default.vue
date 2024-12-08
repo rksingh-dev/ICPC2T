@@ -276,7 +276,7 @@ a.router-link-exact-active {
   background-color: black; 
 } */
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .content-container {
     flex-direction: column;
   }
