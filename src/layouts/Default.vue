@@ -211,7 +211,7 @@ a.router-link-exact-active {
 /* Sidebar (Side Component) */
 .content-container > Side {
   flex: 0 0 300px;
-  max-width: 300px;
+  max-width: auto;
   background-color: #f0f0f0;
   height: auto;
   overflow-y: auto;
