@@ -5,7 +5,7 @@
     <div class="container-fluid">
       <div class="row py-2">
         <!-- About Us -->
-        <div class="col-md-4 col-lg-4">
+        <div class="col-md-4 col-lg-4 footer-section">
           <h5 class="black-text">About Us</h5>
           <p class="black-text">
             The ICPC²T conference is organized by NIT Raipur to bring together
@@ -15,7 +15,7 @@
         </div>
 
         <!-- Quick Links -->
-        <div class="col-md-4 col-lg-4">
+        <div class="col-md-4 col-lg-4 footer-section">
           <h5 class="black-text">Quick Links</h5>
           <ul class="list-unstyled">
             <li>
@@ -34,7 +34,7 @@
         </div>
 
         <!-- Contact Us -->
-        <div class="col-md-4 col-lg-4">
+        <div class="col-md-4 col-lg-4 footer-section">
           <h5 class="black-text">Contact Us</h5>
           <ul class="list-unstyled">
             <li>
@@ -70,7 +70,7 @@
       <!-- Social Media and Developers -->
       <div class="row py-1 d-flex align-items-center">
         <!-- Social Media -->
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12 text-left">
           <h6 class="black-text">Follow Us</h6>
           <a class="fb-ic">
             <i class="fab fa-facebook black-text mr-3"> </i>
@@ -82,14 +82,14 @@
             <i class="fab fa-linkedin black-text mr-3"> </i>
           </a>
           <a class="ins-ic">
-            <i class="fab fa-instagram black-text" href="https://www.instagram.com/ieeenitrr/profilecard/?igsh=MWZ2cXh3OGhyMGRzMg==" target ="__blank"> </i>
+            <i class="fab fa-instagram black-text" target="_blank"> </i>
           </a>
         </div>
 
         <!-- Developers -->
-        <div class="col-md-6 text-right">
+        <div class="col-md-6 col-sm-12 text-right">
           <p class="black-text">
-            <strong>Developers</strong>: Dilpreet Kaur Bhatia, Ayush Pratap Singh,Utkarsh Bharat and Tanya kumari
+            <strong>Developers</strong>: Dilpreet Kaur Bhatia, Ayush Pratap Singh, Utkarsh Bharat, Tanya Kumari
           </p>
         </div>
       </div>
@@ -100,9 +100,9 @@
       <div class="row">
         <div class="col text-center">
           <p class="black-text">
-            © 2024 Copyright:
-           <a href="http://nitrr.ac.in" target="_blank" class="black-text"><strong>
-              National Institute of Technology Raipur</strong>
+            © 2023 Copyright:
+            <a href="http://nitrr.ac.in" target="_blank" class="black-text">
+              National Institute of Technology Raipur
             </a>
           </p>
         </div>
@@ -122,18 +122,18 @@ export default {
 .page-footer {
   background-color: rgb(135, 169, 242);
   color: black;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 20px 15px; /* Added left/right padding */
 }
 
-.row {
-  margin-bottom: 6px;
+.footer-section {
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px; /* Added padding for both sides */
 }
 
-a.black-text, .black-text {
+a.black-text {
   color: black;
   text-decoration: none;
-  font-weight: 400 !important;;
 }
 
 a.black-text:hover {
@@ -142,7 +142,7 @@ a.black-text:hover {
 }
 
 .fab {
-  font-size: 16px; /* Slightly larger icon size */
+  font-size: 20px; /* Icon size adjustment */
 }
 
 .fab:hover {
@@ -151,23 +151,18 @@ a.black-text:hover {
 
 hr {
   border-top: 1px solid rgba(0, 0, 0, 0.2);
-  margin-top: 6px;
-  margin-bottom: 6px;
+  margin: 10px 0;
 }
 
-h5 {
-  font-size: 16px; /* Increased heading size */
-  margin-bottom: 6px;
+@media (max-width: 768px) {
+  .footer-section {
+    text-align: left; /* Left-align sections on tablets */
+  }
 }
 
-ul li {
-  margin-bottom: 4px;
-  font-size: 14px; /* Larger list font size */
-}
-
-p {
-  font-size: 14px; /* Larger paragraph font size */
-  margin-bottom: 6px;
+@media (max-width: 576px) {
+  .footer-section {
+    text-align: left; /* Ensure text is left-aligned on small screens */
+  }
 }
 </style>
-
