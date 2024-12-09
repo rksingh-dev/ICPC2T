@@ -21,6 +21,7 @@
             </li>
             <br/>
              <p style="font-size:14px">This information is only for your kind support.</p> 
+             <p style="font-size:16px"><b>Accomodation will be provided only to the registered students for 19,20 and 21 January.</b></p> 
         <br/>
       </div>
       <div class="card card-body mb-5">

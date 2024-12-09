@@ -163,6 +163,7 @@
 <li>The number of pages in the paper should not exceed <strong>six</strong> Papers submitted in the format other than IEEE will not be considered for the conference.</li>
 <li>The authors of the accepted papers will be invited for an oral presentation in the conference. All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed provided they meet the IEEE guidelines. Further,the registration of at least one author is compulsory for each paper.</li>
 <li>The eligible selected papers will be further review for a possible publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
+<li style="color: red;"><b>Accomodation will be provided only to the registered students for 19,20 and 21 January.</b></li>
 <!-- <li>Details of the online and offline mode of presentation will be made available in the ICPC<sup>2</sup>T 2025 conference website in program schedule. </li> -->
         </ul>
  </p> 
