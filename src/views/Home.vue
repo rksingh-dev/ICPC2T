@@ -42,7 +42,7 @@
           </p>
         <!-- </div> -->
 
-        <div class="sections mb-5">
+        <div class="sectionss mb-5">
           <p style="color:red">
             All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed and the eligible presented papers in the conference may be further reviewed for their publication in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.
           </p>
@@ -97,7 +97,9 @@ h2,h4 {
 }
 
 .sections {
+  width: 90%;
   margin-bottom: 50px;
+  margin-left: -150px;
 }
 
 .article {
@@ -136,15 +138,19 @@ h2,h4 {
 }
 @media (max-width: 1450px) {
   
-  .card{
+  .card,.sections{
     margin-left: -50px;
   }
+  
   
 }
 @media (max-width: 1000px) {
   
-  .card{
+  .card,.sections{
     margin-left: 0px;
+  }
+  .sections{
+    width: 100%;
   }
   
 }
