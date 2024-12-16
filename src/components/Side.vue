@@ -64,7 +64,7 @@
                   <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
                   <br /><br />
                   Registration Deadline :
-                  <s>5<sup>th</sup> December 2024</s> 15<sup>th</sup> December 2024
+                  <s>15<sup>th</sup> December 2024</s> 20<sup>th</sup> December 2024
                   <br /><br />
                 </marquee>
               </td>
@@ -94,7 +94,7 @@
             </tr>
             <tr>
               <td><strong>Registration deadline:</strong></td>
-              <td>15<sup>th</sup> December 2024</td>
+              <s>15<sup>th</sup> December 2024</s> 20<sup>th</sup> December 2024 
             </tr>
             <tr>
               <td><strong>Paper submission starts:</strong></td>
