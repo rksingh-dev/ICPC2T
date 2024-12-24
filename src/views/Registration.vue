@@ -102,6 +102,11 @@
             </tbody>
           </table>
         </div>
+        <p>
+          <strong class="red-text">
+            **The registration fee for foreign participants (outside India) should be paid in USD.
+          </strong>
+        </p>
         <p class="article">
           <br />
           <strong
