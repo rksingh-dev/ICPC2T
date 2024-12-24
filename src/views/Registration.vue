@@ -118,6 +118,11 @@
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
         </p>
+        <p>
+          <strong>
+            The registration fee for foreign participants (outside India) should be paid in USD.
+          </strong>
+        </p>
        <p class="red-text">
           Account Number: 30042955244, IFSC: SBIN0002852, SBI, Raipur
         </p>  <h4>
