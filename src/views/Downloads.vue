@@ -20,7 +20,7 @@
               href="ICPC2T-2025_format.pptx"
               style="color: blue"
             >
-              • Click here to download ppt guidelines.
+              • Click here to download ppt format.
             </a>
             <a
               href="https://www.ieee.org/conferences/publishing/templates.html"
