@@ -8,7 +8,7 @@
           <strong>Event Schedule</strong>
         </h2>
         <hr class="red title-hr" />
-        <p style="text-align: justify"><a href="ICPC2T 2025 (2).pdf">Click here for event schedule</a></p> 
+        <p style="text-align: justify"><a href="Event_Schedule.pdf.pdf">Click here for event schedule</a></p> 
          
       </div>
     </div>
