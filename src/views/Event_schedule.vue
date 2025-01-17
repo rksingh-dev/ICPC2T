@@ -8,7 +8,7 @@
           <strong>Event Schedule</strong>
         </h2>
         <hr class="red title-hr" />
-        <p style="text-align: justify"><a href="Event_Schedulea_with_links.pdf">Click here for event schedule</a></p> 
+        <p style="text-align: justify"><a href="event_schedule2025.pdf">Click here for event schedule</a></p> 
          
       </div>
     </div>
