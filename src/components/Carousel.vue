@@ -84,12 +84,9 @@
     <div class="marquee-style">
   <div class="marquee-content">
     <div class="marquee-item">
-      Congratulations! The proceedings of the 2024 Third International Conference on Power, Control, and Computing Technologies (ICPC<sup>2</sup>T) have been published and are now available on the IEEE Xplore digital library as of 2024-03-25:
-      <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">Click Here</a>.
-    </div>
-    <div class="marquee-item">
-      ICPC2T is now accepting papers in the approved special sessions, and papers can be submitted on the
-      <a href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index">paper submission portal</a>.
+     
+    <a href = " https://drive.google.com/drive/folders/1JLwhk03BqiK5jcvDLkJG6I1h3cp3zgI5?usp=sharing">Download the Fee Receipts and Certificates for online participants</a>.
+
     </div>
  
   </div>
