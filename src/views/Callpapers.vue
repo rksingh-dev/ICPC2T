@@ -10,7 +10,7 @@
         <hr class="red title-hr" />
 
         <p class="article">
-          <strong>ICPC<sup>2</sup>T</strong> 2025 invites full length original
+          <strong>ICPC<sup>2</sup>T</strong> 2026 invites full length original
           research contributions from researchers/professionals from industries,
           R&amp;D organizations, academic institutions and government
           departments from across the world. Full length original research
@@ -45,9 +45,9 @@
           acceptance notification, camera ready paper submission and
           registration will be notified in the conference website. Any query
           regarding submission may be addressed to
-          <strong>icpc2t-2025@nitrr.ac.in</strong>.
+          <strong> icpc2t@nitrr.ac.in</strong>.
           <strong
-            >The proceedings of ICPC<sup>2</sup>T 2025 will be submitted for
+            >The proceedings of ICPC<sup>2</sup>T 2026 will be submitted for
             indexing in IEEE Explore.</strong
           >
         </p>
@@ -64,7 +64,7 @@
         <address>
           <span
             ><strong>Step 2 (Under Screening)</strong> Initial screening review
-            will be done by the Technical Program Committee of ICPC2T 2025.
+            will be done by the Technical Program Committee of ICPC2T 2026.
             Initial screening includes relevance to the conference topic,
             plagiarism***, organization of the paper, quality of
             figures/diagrams/illustrations/equations and technical novelty
@@ -120,7 +120,7 @@
         <br><br>
         <ul>
           <li>
-            For paper submission authors are required to visit the ICPC2T 2025
+            For paper submission authors are required to visit the ICPC2T 2026
             website http://icpc2t.nitrr.ac.in/#/
           </li>
           <li>
@@ -149,7 +149,7 @@
 
           <li>
             Details of the online and offline mode of presentation will be made
-            available in the ICPC2T 2025 conference website as and when
+            available in the ICPC2T 2026 conference website as and when
             applicable.
           </li>
         </ul>
@@ -169,14 +169,14 @@
         <address>
           <span style="font-size: 10pt"
             >** Paper ID will be provided to all the received papers within ONE
-            working day from icpc2t-2025@nitrr.ac.in. Authors are requested to
-            contact the TPC through icpc2t-2025@nitrr.ac.in if the paper ID has
+            working day from  icpc2t@nitrr.ac.in. Authors are requested to
+            contact the TPC through  icpc2t@nitrr.ac.in.in if the paper ID has
             not been received within the time frame.</span
           >
         </address>
         <address>
           <span style="font-size: 10pt"
-            >*** TPC of ICPC2T 2025 will check for possible plagiarism TWICE,
+            >*** TPC of ICPC2T 2026 will check for possible plagiarism TWICE,
             first after receiving the paper and then at the stage of acceptance.
             Though ICPC2T will carefully check for plagiarism, there are some
             possibilities for wrong plagiarism results, hence ICPC2T encourages
@@ -191,14 +191,14 @@
         <p>
           <span><strong>The Organizing Chair,</strong></span
           ><br />
-          <span>ICPC<sup>2</sup>T 2025,</span><br />
+          <span>ICPC<sup>2</sup>T 2026,</span><br />
           <span>National Institute of Technology,</span><br />
           <span> Raipur, Chhattisgarh, India.</span><br />
 
           <span
             >E-mail:
             <a href="mailto:icpc2t@nitrr.ac.in"
-              >icpc2t-2025@nitrr.ac.in</a
+              > icpc2t@nitrr.ac.in</a
             ></span
           >
         </p>

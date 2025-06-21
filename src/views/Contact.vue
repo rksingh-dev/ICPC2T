@@ -16,21 +16,21 @@
             >
           </p>
           <p class="article">
-            <span><strong>Dr. Monalisa Biswal </strong></span> -
-            <a href="tel:+919441700975">9437058624</a><br />
-            <span><strong>Dr. Lalit Kumar </strong></span> -
-            <a href="tel:+919301199854">9752314242</a><br />
+            <span><strong>Dr. Varsha Singh </strong></span> -
+            <a href="tel:+919441700975">9425524731</a><br />
+            <span><strong>Dr. Haripriya Vemuganti </strong></span> -
+            <a href="tel:+919301199854">9948226112</a><br />
             <span><strong>Dr. Venu Sonti </strong></span> -
             <a href="tel:+919827215396">9618832222</a><br />
             <span><strong>Dr. Ramya Selvaraj</strong></span> -
             <a href="tel:+919441700975">8754465755</a><br />
             <span
               >E-mail:
-              <a href="mailto:icpc2t@nitrr.ac.in"
-                >icpc2t-2025@nitrr.ac.in</a
+              <a href="mailto: icpc2t@nitrr.ac.in"
+                > icpc2t@nitrr.ac.in</a
               ></span
             ><br />
-            <span>ICPC<sup>2</sup>T 2025,</span><br />
+            <span>ICPC<sup>2</sup>T 2026,</span><br />
             <span
               >National Institute of Technology Raipur – 492010, Chhattisgarh,
               India.</span

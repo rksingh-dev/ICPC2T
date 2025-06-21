@@ -9,7 +9,7 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          <span>Prof. Vinod Khadkikar, Khalifa University, UAE</span> <br />
+                      <!-- <span>Prof. Vinod Khadkikar, Khalifa University, UAE</span> <br />
           <span>Prof. Sukumar Mishra, IIT Dhanbad</span> <br />
           <span>Prof. Ashok Pradhan, IIT Kharagapur</span> <br />
           <span>Prof. Vivek Agarwal, Institute Chair Professor, IIT-Bombay</span> <br />
@@ -31,7 +31,7 @@
           <span>Prof. Almoataz Y. Abdelaziz, Future University in Egypt, Cairo</span> <br />
           <span>Prof. S. Nema, MANIT Bhopal</span> <br />
           <span>Prof. V T Somashekhar, NIT Warangal</span> <br />
-          <span>Dr. Pradyumn Chaturvedi, VNIT Nagpur</span> <br />
+          <span>Dr. Pradyumn Chaturvedi, VNIT Nagpur</span> <br /> -->
         </p>
       </div>
       <!-- entry-content clearfix-->

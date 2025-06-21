@@ -36,10 +36,10 @@
       <!-- Slides -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img
+            <img
             id="key-speaker"
             class="card-img-top"
-            src="@/assets/temp_key.svg"
+            src="@/assets/p4.svg"
             alt="Slide 1"
           />
         </div>

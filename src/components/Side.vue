@@ -1,5 +1,4 @@
 <template>
-  <!-- Sidebar -->
   <div class="col-xl-4 col-md-12 widget-column mt-0">
     <!-- Countdown Timer -->
     <section class="section mb-5">
@@ -51,21 +50,12 @@
                   onmouseover="this.stop();"
                   onmouseout="this.start();"
                 >
-                  All the accepted papers should be presented in physical mode only.
                   <br /><br />
-                  Paper Submission starts : 30<sup>th</sup> June 2024<br /><br />
-                  Deadline for Full Paper Submission :
-                  <s>22<sup>nd</sup> October 2024</s> 30<sup>th</sup> October 2024 (hard deadline)
-                  <br /><br />
-                  Acceptance Notification :
-                  <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
-                  <br /><br />
-                  Camera Ready Paper Submission :
-                  <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
-                  <br /><br />
-                  Registration Deadline :
-                  <s>15<sup>th</sup> December 2024</s> 20<sup>th</sup> December 2024
-                  <br /><br />
+                  Paper Submission starts: 18<sup>th</sup> June 2025<br /><br />
+                  Deadline for Full Paper Submission: 30<sup>th</sup> September 2025<br /><br />
+                  Acceptance Notification: 1<sup>st</sup> November 2025<br /><br />
+                  Camera Ready Paper Submission: 15<sup>th</sup> November 2025<br /><br />
+                  Registration Deadline: 15<sup>th</sup> December 2025<br /><br />
                 </marquee>
               </td>
             </tr>
@@ -89,37 +79,39 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>Camera ready:</strong></td>
-              <td>5<sup>th</sup> December 2024</td>
-            </tr>
-            <tr>
-              <td><strong>Registration deadline:</strong></td>
-              <s>15<sup>th</sup> December 2024</s> 20<sup>th</sup> December 2024 
-            </tr>
-            <tr>
               <td><strong>Paper submission starts:</strong></td>
-              <td>30<sup>th</sup> June 2024</td>
+              <td>18<sup>th</sup> June 2025</td>
             </tr>
             <tr>
-              <td><strong>Deadline for Full Paper Submission Extended to:</strong></td>
-              <td>
-                <s>22<sup>nd</sup> October 2024</s> 30<sup>th</sup> October 2024 (hard deadline)
-              </td>
+              <td><strong>Deadline for Full Paper Submission:</strong></td>
+              <td>30<sup>th</sup> September 2025</td>
             </tr>
             <tr>
               <td><strong>Acceptance Notifications:</strong></td>
-              <td>
-                <s>15<sup>th</sup> November 2024</s> 20<sup>th</sup> November 2024
-              </td>
+              <td>1<sup>st</sup> November 2025</td>
             </tr>
             <tr>
               <td><strong>Camera Ready Paper Submission:</strong></td>
-              <td>
-                <s>30<sup>th</sup> November 2024</s> 5<sup>th</sup> December 2024
-              </td>
+              <td>15<sup>th</sup> November 2025</td>
+            </tr>
+            <tr>
+              <td><strong>Registration deadline:</strong></td>
+              <td>15<sup>th</sup> December 2025</td>
             </tr>
           </tbody>
         </table>
+      </div>
+    </section>
+
+    <hr class="my-3" />
+
+    <!-- CMT Acknowledgement (with extra spacing and no box) -->
+    <section class="section mb-5" style="margin-top: 40px;">
+      <h4 class="mt-2 text-center heading-font"><strong> The CMT Acknowledgement </strong></h4>
+      <hr class="red title-hr" />
+      <div class="mt-4" style="color: red; font-weight: normal; font-size: 16px; line-height: 1.6;">
+        The Microsoft CMT service was used for managing the peer-reviewing process for this conference.
+        This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
       </div>
     </section>
   </div>
@@ -130,7 +122,7 @@ export default {
   name: "Side",
   data() {
     return {
-      eventDate: new Date("2025-01-20T08:00:00"), 
+      eventDate: new Date("2026-03-11T08:00:00"),
       days: 0,
       hours: 0,
       minutes: 0,
@@ -165,96 +157,75 @@ export default {
   align-items: center;
   margin-top: 10px;
 }
-
 .time-block {
   text-align: center;
   margin: 0 10px;
 }
-
 .time {
   font-size: 2rem;
   font-weight: bold;
   color: #d32f2f;
 }
-
 p {
   margin: 0;
   font-size: 1rem;
   font-weight: bold;
 }
-
 ul.list-group {
   padding-left: 0;
 }
-
 .list-group-item {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
   background-color: #fff;
 }
-
 .list-group-item:hover {
   background-color: rgb(184, 221, 248);
 }
-
 img {
   width: 100%;
   height: 100%;
 }
-
 li:hover {
   background-color: rgb(184, 221, 248);
 }
-
 .custom-font {
   font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
-
 .heading-font {
   font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: bold;
 }
-
-/* Custom Table Styling */
 .custom-table {
   background-color: #f8f9fa;
   font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
 }
-
 .custom-table thead {
   background-color: #343a40;
   color: #ffffff;
 }
-
 .custom-table th {
   text-align: center;
   padding: 10px;
 }
-
 .custom-table td {
   padding: 10px;
   vertical-align: middle;
 }
-
 .custom-table td:first-child {
   font-weight: bold;
 }
-
 .custom-table tbody tr:nth-child(odd) {
   background-color: #f1f1f1;
 }
-
 .custom-table tbody tr:nth-child(even) {
   background-color: #ffffff;
 }
-
 .custom-table tbody tr:hover {
   background-color: #e9ecef;
 }
-
 </style>
-
 
 

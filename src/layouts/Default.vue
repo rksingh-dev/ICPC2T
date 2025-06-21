@@ -4,7 +4,7 @@
     <div v-cloak>
       <header>
         <div class="banner">
-          <img src="../assets/header.svg" alt="" />
+          <img src="../assets/Drawing1.svg" alt="" />
         </div>
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark" id="nav">

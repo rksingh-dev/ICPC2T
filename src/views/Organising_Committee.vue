@@ -13,9 +13,9 @@
             <br /><span class="heading">Chief Patron(s)</span><br />
             <span>Dr. N. V. Ramana Rao, Director, NIT Raipur</span><br />
             <br /><span class="heading">Patron(s)</span><br />
-            <span>Dr. Prabhat Diwan, Dean (R&C), NIT Raipur</span><br />
-            <span>Dr. Shrish Verma, Dean (Academics), NIT Raipur</span><br />
-            <br /><span class="heading">Honorary Chair</span><br />
+            <span>Prof. Dr. Guru Prasad Subas Chandra Mishra, Dean (R&C), NIT Raipur</span><br />
+            <span>Prof. Shubhrata Gupta , Dean (Academics), NIT Raipur</span><br />
+                        <!-- <br /><span class="heading">Honorary Chair</span><br />
             <span> Prof. Om Parkash Malik, University of Calgary</span><br />
             <span>Prof. Vijay K. Sood, Ontario Tech University</span><br />
             <span>Prof. Frede Blaabjerg, Villum Investigator, Aalborg University, Denmark</span><br />
@@ -24,18 +24,18 @@
             <span>Prof. Nilesh J. Vasa, IIT Madras</span><br />
             <span> Prof. Akshay Kumar Rathore, Singapor Institute of Technology</span><br />
             <span> Prof. Biplab Sikdar, National University of Singapore, Singapore </span><br />
-            <span> Prof. Vinod Khadkikar, Khalifa University, UAE </span><br />
+            <span> Prof. Vinod Khadkikar, Khalifa University, UAE </span><br /> -->
             <br /><span class="heading">General Chairs</span><br />
             <span
-              >Dr. Anamika Yadav, HOD, Dept. of Electrical Engineering, NIT
+              >Dr. Anamika Yadav,  Dept. of Electrical Engineering, NIT
               Raipur</span
             ><br />
             <br /><span class="heading"
               >Coordinators/ Organizing Secretaries</span
             ><br />
-            <span>Dr. Monalisa Biswal, NIT Raipur</span><br />
-            <span>Dr. Lalit Kumar, NIT Raipur</span><br />
+            <span>Dr. Varsha Singh, NIT Raipur</span><br />
             <span>Dr. Venu Sonti, NIT Raipur</span><br />
+            <span>Dr. Haripriya Vemuganti, NIT Raipur</span><br />
             <span>Dr. Ramya Selvaraj, NIT Raipur</span><br />
             <br /><span class="heading">Publication Chairs</span><br />
             <span>Dr. S. Gupta, NIT Raipur </span><br />
@@ -43,27 +43,28 @@
             <span>Dr. S. Ghosh, NIT Raipur</span><br />
             <span>Dr. R.N. Patel, CSVTU, Bhilai</span><br />
             <span>Prof. Sachin Jain, NIT Raipur</span><br />
-            <span>Dr. Haripriya, NIT Raipur</span><br />
+            <span>Dr. Monalisa Biswal, NIT Raipur</span><br />
             <span>Dr. Chilaka Ranga, VNIT Nagpur</span><br />
             <br /><span class="heading">Publicity Chairs</span><br />
             <span>Dr. Narendra D. Londhe, NIT Raipur</span><br />
-            <span>Dr. Varsha Singh, NIT Raipur</span><br />
+            <span>Dr. Ritesh Keshri, VNIT Nagpur</span><br />
             <span>Dr. Swapnajit Patnaik, NIT Raipur
             </span><br />
             <span>Dr. D. Suresh, NIT Raipur</span><br />
+            <span>Dr. Rajan Kumar ,NIT Raipur </span><br/>
             <br /><span class="heading">Finance Chair</span><br />
             <span>Dr. B. Shaw, NIT Raipur</span><br />
             <span>Dr. Ebha Koley, NIT Raipur</span><br />
             <span>Dr. Baidyanath Bag, NIT Raipur</span><br />
             <span>Dr. Surajit Sannigrahi, NIT Raipur</span><br />
-            <br /><span class="heading">Track Chair(Tentative)</span><br />
+                       <!--  <br /><span class="heading">Track Chair(Tentative)</span><br />
             <span>Dr. Satish Belkhode, IIT Roorkee</span><br />
             <span>Dr. Anuj Soni, BARC</span><br />
             <span>Dr. Sunita Ahlawat, RRCAT</span><br />
             <span>Dr. Pranab Kumar Mukhopadhyay, RRCAT</span><br />
             <span>Dr. Ramsha Karampuri, VNIT Nagpur</span><br />
             <span>Dr. K. Chandrasekaran, NIT Raipur</span><br />
-            <span>Dr. Rajan Kumar, NIT Raipur</span><br />
+            <span>Dr. Rajan Kumar, NIT Raipur</span><br /> -->
           </p>
         </div>
       </div>
