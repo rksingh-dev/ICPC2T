@@ -9,7 +9,7 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          <span>Dr. Manisha Dubey, MANIT, Bhopal</span> <br />
+                    <!--   <span>Dr. Manisha Dubey, MANIT, Bhopal</span> <br />
           <span>Dr. A. Kumar, NIT Kurukshetra</span> <br />
           <span>Dr. Abhijeet Gorey, TCS Research</span> <br />
           <span>Dr. Della Thomas, IIIT Kottayam</span> <br />
@@ -34,7 +34,7 @@
           <span>Dr. Hemachander Allamsetty, NIT Puducherry</span> <br />
           <span>Dr. Ranjan Kumar Behera, IIT Patna</span> <br />
           <span>Dr. Paresh Kumar Nayak, IIT (ISM) Dhanbad</span> <br />
-          <span>Dr. Dipanshu Naware, NIT Trichy</span> <br />
+          <span>Dr. Dipanshu Naware, NIT Trichy</span> <br />  -->
         </p>
       </div>
     </div>

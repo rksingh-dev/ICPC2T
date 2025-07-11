@@ -1,9 +1,9 @@
 <template>
-  <div class="speakers-list-section">
-    <h2 class="section-heading">Speakers</h2>
+              <div class="speakers-list-section">
+                 <h2 class="section-heading">Speakers</h2>
 
     <!-- Akshay Kumar Rathore -->
-    <div class="speaker-item speaker-akshay">
+                <!-- <div class="speaker-item speaker-akshay">
       <div class="speaker-details">
         <h3 class="speaker-name">Akshay Kumar Rathore</h3>
         <p class="speaker-description">
@@ -13,10 +13,10 @@
       <div class="speaker-image">
         <img src="@/assets/Akshay.png" alt="Akshay Kumar Rathore" />
       </div>
-    </div>
+    </div>  -->
 
     <!-- Kleber Melo E Silva -->
-    <div class="speaker-item speaker-kleber">
+                <!-- <div class="speaker-item speaker-kleber">
       <div class="speaker-details">
         <h3 class="speaker-name">Kleber Melo E Silva</h3>
         <p class="speaker-description">
@@ -26,10 +26,10 @@
       <div class="speaker-image">
         <img src="@/assets/Kleber Melo e Silva.jpg" alt="Kleber Melo E Silva" />
       </div>
-    </div>
+    </div> -->
 
-    <!-- Prof. Vinod Khadkikar -->
-    <div class="speaker-item speaker-vinod">
+                <!-- Prof. Vinod Khadkikar -->
+                <!-- <div class="speaker-item speaker-vinod">
       <div class="speaker-details">
         <h3 class="speaker-name">Prof. Vinod Khadkikar</h3>
         <p class="speaker-description">
@@ -72,7 +72,8 @@
       <div class="speaker-image">
         <img src="@/assets/Dr Sze Sing Lee.jpg" alt="Dr Sze Sing Lee" />
       </div>
-    </div>
+    </div>-->
+    <p style="text-align: justify">Will be Updated soon.</p>
   </div>
 </template>
 

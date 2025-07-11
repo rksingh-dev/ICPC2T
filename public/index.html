@@ -1,16 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/main
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <link rel="apple-touch-icon" sizes="180x180" href="<%= BASE_URL %>apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="<%= BASE_URL %>favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="<%= BASE_URL %>favicon-16x16.png">
-  <link rel="manifest" href="<%= BASE_URL %>site.webmanifest">
-  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+  <link href="./css/bootstrap.css" rel="stylesheet" />
+  <link href="./css/mdb.css" rel="stylesheet" />
+  <title>ICPC2T : International Conference on Power, Control and Computing Technologies</title>
+  <style>
+    /* Ensure full-width layout */
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+    }
 
+<<<<<<< HEAD
+    .container-fluid {
+      width: 100%;
+=======
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <!-- Bootstrap core CSS -->
   <link href="./css/bootstrap.css" rel="stylesheet">
@@ -28,6 +47,7 @@
 
     .container-fluid {
       width: 100%;  /* Full width container */
+>>>>>>> origin/main
       padding: 0;
       margin: 0;
     }
@@ -41,30 +61,89 @@
       padding: 0;
     }
 
+<<<<<<< HEAD
+=======
     /* Optional: Ensure page sections like header and footer are aligned */
+>>>>>>> origin/main
     .navbar-nav {
       margin: 0;
       padding: 0;
     }
-  </style>
-</head>
+<<<<<<< HEAD
 
+    /* Optional styling for the acknowledgement section */
+    .ack-container {
+      margin-top: 40px;
+      padding: 15px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .ack-container h4 {
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .ack-container div {
+      color: red;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 1.6;
+      text-align: center;
+    }
+
+    .ack-container a {
+      color: red;
+      text-decoration: underline;
+    }
+  </style>
+
+  <link href="/css/app.902af6c9.css" rel="preload" as="style" />
+  <link href="/js/app.f30c197e.js" rel="preload" as="script" />
+  <link href="/js/chunk-vendors.3df431d7.js" rel="preload" as="script" />
+  <link href="/css/app.902af6c9.css" rel="stylesheet" />
+=======
+  </style>
+>>>>>>> origin/main
+</head>
 <body class="fixed-sn">
   <noscript>
+<<<<<<< HEAD
+    <strong>
+      We're sorry but icpc2t doesn't work properly without JavaScript enabled.
+      Please enable it to continue.
+    </strong>
+  </noscript>
+=======
     <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
       Please enable it to continue.</strong>
   </noscript>
   <div id="app"></div> <!-- This will be replaced by Vue or other JS frameworks -->
+>>>>>>> origin/main
 
-  <!-- SCRIPTS -->
-  <!-- JQuery -->
-  <script type="text/javascript" src="./js/jquery-3.4.1.min.js"></script>
-  <!-- Tooltips -->
-  <script type="text/javascript" src="./js/popper.min.js"></script>
-  <!-- Bootstrap core JavaScript -->
-  <script type="text/javascript" src="./js/bootstrap.min.js"></script>
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="./js/mdb.min.js"></script>
+  <!-- Vue app will mount here -->
+  <div id="app">
+    <!-- CMT Acknowledgement Section (will appear above footer) -->
+    <section class="section mb-5 ack-container">
+      <h4 class="mt-2 heading-font"><strong>The CMT Acknowledgement</strong></h4>
+      <hr style="width: 60px; border: 1px solid red; margin: 10px auto;" />
+      <div>
+        The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+        
+        <a href="https://cmt3.research.microsoft.com/" target="_blank">
+          CMT submission link
+        </a> provided on the conference website.
+      </div>
+    </section>
+  </div>
+
+  <!-- JS Files -->
+  <script src="./js/jquery-3.4.1.min.js"></script>
+  <script src="./js/popper.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/mdb.min.js"></script>
+
   <script>
     $(window).scroll(function () {
       if ($(window).scrollTop() < 150) {
@@ -74,6 +153,13 @@
       }
     });
   </script>
-</body>
 
+<<<<<<< HEAD
+  <script src="/js/chunk-vendors.3df431d7.js"></script>
+  <script src="/js/app.f30c197e.js"></script>
+</body>
 </html>
+
+=======
+</html>
+>>>>>>> origin/main
