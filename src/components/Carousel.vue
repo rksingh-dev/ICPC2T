@@ -98,6 +98,8 @@
 
 
 
+
+
 <script>
 export default {
   name: "ABCD",
@@ -105,6 +107,7 @@ export default {
 </script>
 
 <style scoped>
+
 
 #carousel-main-div-for-spacing {
   margin: 50px auto;

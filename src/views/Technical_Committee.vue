@@ -34,7 +34,7 @@
           <span>Dr. Hemachander Allamsetty, NIT Puducherry</span> <br />
           <span>Dr. Ranjan Kumar Behera, IIT Patna</span> <br />
           <span>Dr. Paresh Kumar Nayak, IIT (ISM) Dhanbad</span> <br />
-          <span>Dr. Dipanshu Naware, NIT Trichy</span> <br /> -->
+          <span>Dr. Dipanshu Naware, NIT Trichy</span> <br />  -->
         </p>
       </div>
     </div>
