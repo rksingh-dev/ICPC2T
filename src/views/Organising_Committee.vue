@@ -15,14 +15,14 @@
             <br /><span class="heading">Patron(s)</span><br />
             <span>Prof. Dr. Guru Prasad Subas Chandra Mishra, Dean (R&C), NIT Raipur</span><br />
             <span>Prof. Shubhrata Gupta , Dean (Academics), NIT Raipur</span><br />
-                        <!-- <br /><span class="heading">Honorary Chair</span><br />
-            <span> Prof. Om Parkash Malik, University of Calgary</span><br />
-            <span>Prof. Vijay K. Sood, Ontario Tech University</span><br />
-            <span>Prof. Frede Blaabjerg, Villum Investigator, Aalborg University, Denmark</span><br />
+                         <br /><span class="heading">Honorary Chair</span><br />
+            <span> Prof. Frede Blaabjerg, Villum Investigator, Aalborg University, Denmark</span><br />
+            <span>Prof. Kashem Muttaqi, University of Wollongong, Australia</span><br />
             <span>Prof. Prof. Kleber Melo e Silva, University of Brasilia, Brazil</span><br />
+            <span>Prof. Zahra Moravej, Semnan University, Iran</span><br />
             <span>Prof. Bhim Singh, SERB National Science Chair & Emeritus Professor, IIT-Delhi</span><br />
             <span>Prof. Nilesh J. Vasa, IIT Madras</span><br />
-            <span> Prof. Akshay Kumar Rathore, Singapor Institute of Technology</span><br />
+           <!--<span> Prof. Akshay Kumar Rathore, Singapor Institute of Technology</span><br />
             <span> Prof. Biplab Sikdar, National University of Singapore, Singapore </span><br />
             <span> Prof. Vinod Khadkikar, Khalifa University, UAE </span><br /> -->
             <br /><span class="heading">General Chairs</span><br />

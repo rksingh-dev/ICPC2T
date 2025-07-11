@@ -8,14 +8,14 @@
           <strong>Registration</strong>
         </h2>
         <hr class="red title-hr" />
-                             <!--    <p class="article">
+                                 <p class="article">
           Author/participants shall pay the registration fee directly to the bank account. The candidate shall send the filled registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t-2025@nitrr.ac.in</a> on or before
           15/12/2024 and shall fill the registration form by <a href="https://docs.google.com/forms/d/1s9cRpodVDLOAg0AIo19MUmUNwoetBhipJ4dicvYytZg/formrestricted">clicking here</a> . The registration fee details and bank account details are given below.
-        </p> -->
-        <p> Will be Updated Soon.</p>
-                   <!--  <h3>Registration Fees (Including GST  *)</h3> -->
+        </p> 
+        
+                     <h3>Registration Fees (Including GST  *)</h3> 
 
-                  <!--   <div class="FixedHeightContainer">
+                     <div class="FixedHeightContainer">
           <table class="table-responsive tg">
             <thead>
               <tr>
@@ -102,13 +102,13 @@
               </tr>
             </tbody>
           </table>
-        </div> -->
-                  <!--   <p>
+        </div> 
+                   <p>
           <strong class="red-text">
             **The registration fee for foreign participants (outside India) should be paid in USD.
           </strong>
-        </p> -->
-                   <!--  <p class="article">
+        </p> 
+                     <p class="article">
           <br />
           <strong
             >Good and Service Tax (GST) @ 18% included in the fee</strong
@@ -123,15 +123,15 @@
          
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
-        </p> -->
+        </p> 
         
-                  <!--  <p class="red-text">
+                    <p class="red-text">
           Account Number: 30042955244, IFSC: SBIN0002852, SBI, Raipur
-        </p> --> 
-                    <!--  <h4>
+        </p>  
+                      <h4>
             Account details of conference
-        </h4>-->
-                  <!--    <ul style="list-style-type:none;line-height:1.5"></ul>
+        </h4>
+                     <ul style="list-style-type:none;line-height:1.5"></ul>
         <table class="account_tables">
           <tr><td>Account Name</td><td> Director NIT Raipur </td></tr>
           <tr><td>Account No.</td><td> 30042955244</td></tr>
@@ -141,13 +141,13 @@
           <tr><td>Branch Name</td><td> NIT Branch</td></tr>
           <tr><td>Address</td><td> G. E. Road, Raipur (C.G.) 492010</td></tr>
           <tr><td>Bank Details</td><td> <a href="/bankdetails.pdf">Click Here</a></td></tr>
-        </table> -->
+        </table> 
                      <br>
-                   <!--  <h4>
+                     <h4>
             Publications Opportunities
-        </h4> -->
+        </h4> 
         <p class="article"> 
-        <!-- <ul>
+         <ul>
           <li>
             Based on the recommendations of the reviewer(s) the selected
             full-length articles may be published in SCI/SCIE indexed journals
@@ -159,12 +159,12 @@
             Publication charges from Publishers end (if any) are to be borne by
             the authors.
           </li> 
-        </ul> -->
+        </ul> 
        </p> 
-                  <!--  <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p> -->
+                    <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p> -->
        
-              <!--     <h4>INSTRUCTION TO THE PARTICIPANTS</h4>  -->
-                  <!-- <p class="article">
+                   <h4>INSTRUCTION TO THE PARTICIPANTS</h4>  
+                   <p class="article">
         <ul>
         
 <li>The sample paper template is made available on the conference website in Download menu.</li>
@@ -174,22 +174,22 @@
 <li style="color: red;"><b>Accomodation will be provided only to the registered students for 19,20 and 21 January.</b></li>
  <li>Details of the online and offline mode of presentation will be made available in the ICPC<sup>2</sup>T 2025 conference website in program schedule. </li> 
         </ul>
- </p> -->
+ </p> 
  
-            <!--  <h4>CAMERA READY INSTRUCTIONS</h4>  -->
-            <!-- <p class="article red-text"><a href="CAMERAREADY Instruction (2).pdf">Click here for CAMERA READY INSTRUCTIONS</a></p> -->
+              <h4>CAMERA READY INSTRUCTIONS</h4>  
+             <p class="article red-text"><a href="CAMERAREADY Instruction (2).pdf">Click here for CAMERA READY INSTRUCTIONS</a></p> 
 
-             <!-- <h4>
+              <h4>
   Previous conference proceedings links
-</h4> -->
-            <!-- <ul>
+</h4> 
+            <ul>
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9051868/proceeding"> 2020</a></li>
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9776593/proceeding"> 2022</a></li>
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding"> 2024</a></li>
-</ul> -->
+</ul> 
 
 
-            <!-- <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>  -->
+             <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>  
 <br> 
 <p class="article"> </p>
 

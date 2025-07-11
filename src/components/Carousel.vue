@@ -4,7 +4,7 @@
     <div id="carousel-example-1z" class="carousel slide" data-ride="carousel">
       <!-- Brochure Button -->
       <div class="brochure-button">
-        <a href="./brochure.pdf" id="btn" ><button class="btn btn-primary">Brochure</button></a>
+        <a href="./Brochure_new.pdf" id="btn" ><button class="btn btn-primary">Brochure</button></a>
       </div>
 
       <!-- Arrows -->
@@ -39,7 +39,7 @@
             <img
             id="key-speaker"
             class="card-img-top"
-            src="@/assets/p4.svg"
+            src="@/assets/p1.jpeg"
             alt="Slide 1"
           />
         </div>
@@ -85,7 +85,7 @@
   <div class="marquee-content">
     <div class="marquee-item">
      
-    <a href = " https://drive.google.com/drive/folders/1JLwhk03BqiK5jcvDLkJG6I1h3cp3zgI5?usp=sharing">Download the Fee Receipts and Certificates for online participants</a>.
+    <a href = " https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding">Proceedings of ICPC2T 2025</a>.
 
     </div>
  

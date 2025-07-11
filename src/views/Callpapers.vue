@@ -33,7 +33,7 @@
           electronically via Conference Management Toolkit (CMT) sponsored by
           Microsoft Research through the link given
           <a
-            href="https://cmt3.research.microsoft.com/ICPC2T2025"
+            href="https://cmt3.research.microsoft.com/ICPCCT2026/Submission/Index"
             >here</a
           >
           . All the submitted manuscripts will be sent for peer review and the

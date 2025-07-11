@@ -9,19 +9,19 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-                      <!-- <span>Prof. Vinod Khadkikar, Khalifa University, UAE</span> <br />
-          <span>Prof. Sukumar Mishra, IIT Dhanbad</span> <br />
-          <span>Prof. Ashok Pradhan, IIT Kharagapur</span> <br />
-          <span>Prof. Vivek Agarwal, Institute Chair Professor, IIT-Bombay</span> <br />
-          <span>Prof. Bidyadhar Subudhi, NIT Warangal</span> <br />
+                       <span>Prof. Frede Blaabjerg, Aalborg University, Denmark</span> <br />
+          <span>Prof. Kashem Muttaqi, University of Wollongong, Australia</span> <br />
+          <span>Prof. Zahra Moravej, Semnan University, Iran</span> <br />
+          <span>Prof. Bhim Singh, IIT Delhi</span> <br />
+          <span>Prof. Zahra Moravej, Semnan University, Iran</span> <br />
           <span>Prof. Ramesh Bansal, University of Pretoria, South Africa</span> <br />
           <span>Dr. Geetam Tomar, Rajkiya Engg. College, Sonbhadra, UP</span> <br />
-          <span>Mr. M. K. Badapanda, RRCAT, Indore
+          <span>Shri. M K Badapanda, RRCAT, Indore
           </span>
           <br />
-          <span>Prof. Arup Lal Chakraborty, IIT Gandhinagar</span>
+          <span>Prof. Niranjan Kumar, NIT Jamshedpur</span>
           <br />
-          <span>Prof. M. V. Aware, NIT Arunachal Pradesh</span> <br />
+         <!-- <span>Prof. M. V. Aware, NIT Arunachal Pradesh</span> <br />
           <span>Prof. R. K. Nema, MANIT Bhopal
           </span> <br />
           <span>Prof. Shailendra Jain, MANIT Bhopal

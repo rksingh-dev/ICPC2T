@@ -105,13 +105,12 @@
 
     <hr class="my-3" />
 
-    <!-- CMT Acknowledgement (with extra spacing and no box) -->
+    <!-- Vue-rendered CMT Acknowledgement -->
     <section class="section mb-5" style="margin-top: 40px;">
       <h4 class="mt-2 text-center heading-font"><strong> The CMT Acknowledgement </strong></h4>
       <hr class="red title-hr" />
       <div class="mt-4" style="color: red; font-weight: normal; font-size: 16px; line-height: 1.6;">
-        The Microsoft CMT service was used for managing the peer-reviewing process for this conference.
-        This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+        The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
       </div>
     </section>
   </div>
@@ -227,5 +226,6 @@ li:hover {
   background-color: #e9ecef;
 }
 </style>
+
 
 
