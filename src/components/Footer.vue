@@ -45,28 +45,25 @@
             </li>
             <li>
               <i class="fas fa-phone"></i>
-<<<<<<< HEAD
-              <span class="black-text ml-1">+91 9948226112</span>
-            </li>
-            <li>
-              <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 8754465755</span>
-=======
-              <span class="black-text ml-1">+91 8225910484</span>
->>>>>>> origin/main
+            <span class="black-text ml-1">+91 9948226112</span>
+          </li>
+          <li>
+            <i class="fas fa-phone"></i>
+            <span class="black-text ml-1">+91 8754465755</span>
+          </li>
+          <li>
+            <i class="fas fa-phone"></i>
+            <span class="black-text ml-1">+91 8225910484</span>
             </li>
             <li>
               <i class="fas fa-phone"></i>
               <span class="black-text ml-1">+91 9618832222</span>
             </li>
             <li>
-<<<<<<< HEAD
-=======
-              <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 8109831322</span>
-            </li>
-            <li>
->>>>>>> origin/main
+            <i class="fas fa-phone"></i>
+            <span class="black-text ml-1">+91 8109831322</span>
+          </li>
+          <li>
               <i class="fas fa-map-marker-alt"></i>
               <span class="black-text ml-1">
                 National Institute of Technology Raipur, G.E. Road, Raipur (C.G.)
@@ -100,11 +97,7 @@
         <!-- Developers -->
         <div class="col-md-6 col-sm-12 text-right">
           <p class="black-text">
-<<<<<<< HEAD
-            <strong>Developer</strong>: Utkarsh Bharat
-=======
             <strong>Developers</strong>: Dilpreet Kaur Bhatia, Ayush Pratap Singh, Utkarsh Bharat, Tanya Kumari
->>>>>>> origin/main
           </p>
         </div>
       </div>
