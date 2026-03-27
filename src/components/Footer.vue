@@ -13,9 +13,9 @@
             knowledge and innovative ideas.
           </p>
         </div>
-
-        <!-- Quick Links -->
-        <div class="col-md-4 col-lg-4 footer-section">
+        <!-- LINK INACTIVE -->
+        <!-- Quick Links --> 
+        <!-- <div class="col-md-4 col-lg-4 footer-section">
           <h5 class="black-text">Quick Links</h5>
           <ul class="list-unstyled">
             <li>
@@ -29,6 +29,23 @@
             </li>
             <li>
               <a class="black-text" href="#schedule">Conference Schedule</a>
+            </li>
+          </ul>
+        </div> -->
+        <div class="col-md-4 col-lg-4 footer-section">
+          <h5 class="black-text">Quick Links</h5>
+          <ul class="list-unstyled">
+            <li>
+              <a class="black-text"  target="_blank">Brochure</a>
+            </li>
+            <li>
+              <a class="black-text" target="_blank">About Conference</a>
+            </li>
+            <li>
+              <a class="black-text"  target="_blank">Registration Details</a>
+            </li>
+            <li>
+              <a class="black-text" >Conference Schedule</a>
             </li>
           </ul>
         </div>
@@ -93,7 +110,7 @@
         <!-- Developers -->
         <div class="col-md-6 col-sm-12 text-right">
           <p class="black-text">
-            <strong>Developers</strong>: Rahul Singh, Nishant Kumar, Dilpreet Kaur Bhatia, Ayush Pratap Singh, Utkarsh Bharat, Tanya Kumari
+            <strong>Developers</strong>: Rahul Singh, Nishant Kumar, Utkarsh Bharat, Swapnil Jayant, Ronanki Dinesh
           </p>
         </div>
       </div>

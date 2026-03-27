@@ -17,7 +17,7 @@
           <p>Authors are requested to follow the instructions below for final camera-ready paper submission:-</p>
           <ol>
             <li>
-              Please log in to <a href="https://cmt3.research.microsoft.com/ICPC2T2026">https://cmt3.research.microsoft.com/ICPC2T2026</a> to view the reviewer comments, if any, and address the concerns/comments of the reviewers in the final camera-ready submission.
+              Please log in to <a href="    https://cmt3.research.microsoft.com/ICPC2T2027 ">    https://cmt3.research.microsoft.com/ICPC2T2027 </a> to view the reviewer comments, if any, and address the concerns/comments of the reviewers in the final camera-ready submission.
             </li>
             <hr>
             <li>
@@ -52,18 +52,18 @@
             </li>
             <hr>
             <li>
-              The authors will have to submit a camera-ready version as per the guidelines given on the conference website on or before 20th January 2026.
+              The authors will have to submit a camera-ready version as per the guidelines given on the conference website on or before 15th January 2027.
             </li>
             <hr>
             <li>
               For any queries please contact the<br>
               <strong>Conference Chair</strong><br>
-              Prof. Anamika Yadav - <a href="mailto:ayadav.ele@nitrr.ac.in">ayadav.ele@nitrr.ac.in</a><br>
+              Prof. Sachin Jain - <a href="mailto:sjain.ee@nitrr.ac.in">sjain.ee@nitrr.ac.in</a><br>
               <strong>Organizing Secretaries</strong><br>
-              Dr. Varsha Singh - <a href="mailto:vsingh.ele@nitrr.ac.in">vsingh.ele@nitrr.ac.in</a><br>
-              Dr. Hari priya Vemuganti - <a href="mailto:hpvemuganti.ee@nitrr.ac.in">hpvemuganti.ee@nitrr.ac.in</a><br>
-              Dr. Venu Sonti – <a href="mailto:svenu.ee@nitrr.ac.in">svenu.ee@nitrr.ac.in</a><br>
-              Dr. Ramya Selvaraj - <a href="mailto:rselvaraj.ee@nitrr.ac.in">rselvaraj.ee@nitrr.ac.in</a>
+              Dr. R. N. Patel - <a href="mailto:rnpatel.ee@nitrr.ac.in">rnpatel.ee@nitrr.ac.in</a><br>
+              Dr. Monalisa Biswal - <a href="mailto:mbiswal.ele@nitrr.ac.in">mbiswal.ele@nitrr.ac.in</a><br>
+              Dr. Surajit Sannigrahi - <a href="mailto:ssannigrahi.ee@nitrr.ac.in">ssannigrahi.ee@nitrr.ac.in</a><br>
+              Dr. Saurav Raj - <a href="mailto:sraj.ee@nitrr.ac.in">sraj.ee@nitrr.ac.in</a>
             </li>
             <hr>
             <li>
@@ -72,11 +72,11 @@
               <strong>Procedure for IEEE Copyright Form eCF submission:</strong><br>
               To enable your paper to appear in IEEE Xplorer, it is mandatory to transfer the Copyright to IEEE. The corresponding/submitting author of each paper has to transfer IEEE eCF. The steps to transfer the Copyright to IEEE are also given below:
               <ul>
-                <li>Login to your CMT Paper Submission Portal to <a href="https://cmt3.research.microsoft.com/ICPC2T2026">https://cmt3.research.microsoft.com/ICPC2T2026</a> and Click on the IEEE copyright link. You will be redirected to IEEE Copyright Form Submission page.</li>
+                <li>Login to your CMT Paper Submission Portal to <a href="    https://cmt3.research.microsoft.com/ICPC2T2027 ">    https://cmt3.research.microsoft.com/ICPC2T2027 </a> and Click on the IEEE copyright link. You will be redirected to IEEE Copyright Form Submission page.</li>
                 <li>Click on “Click here to redirect to the IEEE copyright website” to transfer eCF and you will be redirected to IEEE copyright portal.</li>
                 <li>Follow the steps and other instructions to complete the IEEE Copyright Transfer process.</li>
                 <li>Download the completed Copyright Form and save it as .pdf file. Don’t change the name of the file.</li>
-                <li>Login to your CMT Paper Submission Portal to <a href="https://cmt3.research.microsoft.com/ICPC2T2026">https://cmt3.research.microsoft.com/ICPC2T2026</a> and upload this .pdf file of Copyright Transfer Form.</li>
+                <li>Login to your CMT Paper Submission Portal to <a href="    https://cmt3.research.microsoft.com/ICPC2T2027 ">    https://cmt3.research.microsoft.com/ICPC2T2027 </a> and upload this .pdf file of Copyright Transfer Form.</li>
                 <li>It completes the Copyright Transfer of your paper to IEEE. Please note that separate copyright transfer is required for each paper.</li>
               </ul>
             </li>

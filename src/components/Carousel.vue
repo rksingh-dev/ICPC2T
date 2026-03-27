@@ -82,9 +82,9 @@
   <div class="marquee-content">
      <div class="marquee-item">
      
-    Registration Details: <a href="./Registration.docx" target="_blank">Click here for Registration Details</a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    Camera Ready Instructions for Participants: <a href="./template_acceptance.docx" target="_blank">Download camera ready instructions</a>
+    <!-- Registration Details: <a href="./Registration.docx" target="_blank">Click here for Registration Details</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+    <!-- Camera Ready Instructions for Participants: <a href="./template_acceptance.docx" target="_blank">Download camera ready instructions</a> -->
 
     </div>
  

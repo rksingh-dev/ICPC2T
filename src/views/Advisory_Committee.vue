@@ -5,22 +5,20 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <h2 class="font-weight-bold mt-3">
-          <strong>Advisory Board Members</strong>
+          <strong>Advisory Board Members(Tentative)</strong>
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          <span>Prof. Frede Blaabjerg, Aalborg University, Denmark</span> <br />
-          <span>Prof. Kashem Muttaqi, University of Wollongong, Australia</span> <br />
-          <span>Prof. Zahra Moravej, Semnan University, Iran</span> <br />
-          <span>Prof. Bhim Singh, IIT Delhi</span> <br />
-          <span>Prof. Zahra Moravej, Semnan University, Iran</span> <br />
-          <span>Prof. Ramesh Bansal, University of Pretoria, South Africa</span> <br />
           <span>Dr. Geetam Tomar, Rajkiya Engg. College, Sonbhadra, UP</span> <br />
           <span>Shri. M K Badapanda, RRCAT, Indore</span> <br />
-          <span>Prof. Niranjan Kumar, NIT Jamshedpur</span> <br />
-          <span>Prof. Asheesh K Singh, MNNIT Allahabad</span> <br />
-          <span>Prof. Almoataz Y. Abdelaziz, Ain Shams University, Egypt</span> <br />
-          <span>Prof. Sishaj P Simon, NIT Trichy</span> <br />
+          <span>Prof. Bijay Ketan Panigrahy, IIT Delhi </span> <br />
+          <span>Prof. Sukumar Mishra, IIT Dhanbad </span> <br />
+          <span>Prof. Ashok Kumar Pradhan, IIT Kharagpur </span> <br />
+          <span>Prof. Bidyadhar Subudhi, NIT Warangal </span> <br />
+          <span>Prof. Ramesh Bansal, University of Pretoria, South Africa</span> <br />
+          <span>Prof. Sanjib Panda, NTU Singapore </span> <br />
+          <span>Prof. Frede Blaabjerg, Aalborg University, Denmark</span> <br />
+          <span>Prof. Jih-Sheng (Jason) Lai, Virginia Tech, USA </span> <br />
         </p>
       </div>
       <!-- entry-content clearfix-->

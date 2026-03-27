@@ -3,26 +3,27 @@
     <!-- Post -->
     <div class="row mt-2 mb-5 pb-3 mx-2">
       <!-- Card -->
-                  <div class="card card-body mb-5">
+      <div class="card card-body mb-5">
         <h2 class="font-weight-bold mt-3">
           <strong>Registration</strong>
         </h2>
         <hr class="red title-hr" />
         <h3>Registration process</h3>
-        <ul class="article">
-          <li>Interested participants shall pay the registration fee directly to the bank account. Candidate shall send the filled in registration form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before 30/01/2026. Registration form and payment details are available in the website (<a href="http://icpc2t.nitrr.ac.in/#/">http://icpc2t.nitrr.ac.in/#/</a>)</li>
-        </ul>
+        <!-- <ul class="article">
+          <li>Interested participants shall pay the registration fee directly to the bank account. Candidate shall send
+            the filled in registration form along with the payment proof to <a
+              href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before 30/01/2026. Registration form and
+            payment details are available in the website (<a
+              href="http://icpc2t.nitrr.ac.in/#/">http://icpc2t.nitrr.ac.in/#/</a>)</li>
+        </ul> -->
         <h3>Registration Fees (Excluding GST *)</h3>
 
-                     <div class="FixedHeightContainer">
+        <div class="FixedHeightContainer">
           <table class="table-responsive tg">
             <thead>
               <tr>
                 <th class="tg-x75h" rowspan="2">
-                  <span class="table-head">Category</span><br /><span
-
-                    class="table-head"
-                    >(Author)
+                  <span class="table-head">Category</span><br /><span class="table-head">(Author)
                   </span>
                 </th>
                 <th class="tg-x75h" colspan="2">
@@ -113,38 +114,61 @@
           <br />
           <a href="https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit" target="_blank">https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit</a>
           <br /><br /> -->
-          <strong
-            >Good and Service Tax (GST) @ 18% included in the fee</strong
-          >
+          <strong>Good and Service Tax (GST) @ 18% included in the fee</strong>
           <br />
           <strong>Participation:</strong>
-          <br/>
-          
+          <br />
+
           <!-- <span>
           Conference Attendees: INR 5500/USD 200</span>
           <br/> -->
-         
+
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
         </p>
-        
-       <p class="red-text">
+
+        <p class="red-text">
           Account Number: 30042955244, IFSC: SBIN0002852, SBI, Raipur
-        </p>  <h4>
-            Account details of conference
+        </p>
+        <h4>
+          Account details of conference
         </h4>
-                     <ul style="list-style-type:none;line-height:1.5"></ul>
+        <ul style="list-style-type:none;line-height:1.5"></ul>
         <table class="account_tables">
-          <tr><td>Account Name</td><td> Director NIT Raipur </td></tr>
-          <tr><td>Account No.</td><td> 30042955244</td></tr>
-          <tr><td>IFSC Code</td><td> SBIN0002852</td></tr>
-          <tr><td>Swift Code</td><td> SBININBB646</td></tr>
-          <tr><td>Bank Name</td><td> State Bank of India</td></tr>
-          <tr><td>Branch Name</td><td> NIT Branch</td></tr>
-          <tr><td>Address</td><td> G. E. Road, Raipur (C.G.) 492010</td></tr>
-          <tr><td>Bank Details</td><td> <a href="/bankdetails.pdf">Click Here</a></td></tr>
-        </table> 
-                     <!-- <br>
+          <tr>
+            <td>Account Name</td>
+            <td> Director NIT Raipur </td>
+          </tr>
+          <tr>
+            <td>Account No.</td>
+            <td> 30042955244</td>
+          </tr>
+          <tr>
+            <td>IFSC Code</td>
+            <td> SBIN0002852</td>
+          </tr>
+          <tr>
+            <td>Swift Code</td>
+            <td> SBININBB646</td>
+          </tr>
+          <tr>
+            <td>Bank Name</td>
+            <td> State Bank of India</td>
+          </tr>
+          <tr>
+            <td>Branch Name</td>
+            <td> NIT Branch</td>
+          </tr>
+          <tr>
+            <td>Address</td>
+            <td> G. E. Road, Raipur (C.G.) 492010</td>
+          </tr>
+          <tr>
+            <td>Bank Details</td>
+            <td> <a href="/bankdetails.pdf">Click Here</a></td>
+          </tr>
+        </table>
+        <!-- <br>
                      <h4>
             Publications Opportunities
         </h4> 
@@ -163,24 +187,26 @@
           </li> 
         </ul> 
        </p>  -->
-       <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
-       
-        
-
- <h4>
-  Previous conference proceedings links
-</h4> 
-            <ul>
-<li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9051868/proceeding"> 2020</a></li>
-<li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9776593/proceeding"> 2022</a></li>
-<li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding"> 2024</a></li>
-<li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding"> 2025</a></li>
-</ul> 
+        <p class="article red-text">All the registered and presented papers in the conference will only be submitted to
+          IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE
+          criteria and guidelines.</p>
 
 
-             <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>  
-<br> 
-<p class="article"> </p>
+
+        <h4>
+          Previous conference proceedings links
+        </h4>
+        <ul>
+          <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9051868/proceeding"> 2020</a></li>
+          <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9776593/proceeding"> 2022</a></li>
+          <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding"> 2024</a></li>
+          <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding"> 2025</a></li>
+        </ul>
+
+
+        <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div>
+        <br>
+        <p class="article"> </p>
 
       </div>
     </div>
@@ -198,11 +224,13 @@ export default {
   overflow: hidden;
   text-align: center;
 }
+
 .tg {
   border-collapse: collapse;
   border-color: #ccc;
   border-spacing: 0;
 }
+
 .tg td {
   background-color: #fff;
   border-color: #ccc;
@@ -215,6 +243,7 @@ export default {
   padding: 10px 5px;
   word-break: normal;
 }
+
 .tg th {
   background-color: #f0f0f0;
   border-color: #ccc;
@@ -228,21 +257,25 @@ export default {
   padding: 10px 5px;
   word-break: normal;
 }
+
 .tg .tg-x75h {
   font-family: "Times New Roman", Times, serif !important;
   font-size: 18px;
   text-align: center;
   vertical-align: top;
 }
+
 .tg .tg-ltad {
   font-size: 14px;
   text-align: left;
   vertical-align: top;
 }
+
 .tg .tg-0lax {
   text-align: left;
   vertical-align: top;
 }
+
 .table-head {
   font-weight: 700;
   font-style: normal;
@@ -250,6 +283,7 @@ export default {
   color: #000;
   background-color: transparent;
 }
+
 .table-col {
   font-weight: 400;
   font-style: normal;
@@ -257,6 +291,7 @@ export default {
   color: #000;
   background-color: transparent;
 }
+
 .account_tables td {
   border: 1px solid rgb(192, 192, 192);
   padding: 8px 10px;

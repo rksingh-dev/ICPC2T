@@ -16,14 +16,14 @@
             >
           </p>
           <p class="article">
-            <span><strong>Dr. Varsha Singh </strong></span> -
-            <a href="tel:+919441700975">9425524731</a><br />
-            <span><strong>Dr. Haripriya Vemuganti </strong></span> -
-            <a href="tel:+919301199854">9948226112</a><br />
-            <span><strong>Dr. Venu Sonti </strong></span> -
-            <a href="tel:+919827215396">9618832222</a><br />
-            <span><strong>Dr. Ramya Selvaraj</strong></span> -
-            <a href="tel:+919441700975">8754465755</a><br />
+            <span><strong>Dr. R. N. Patel </strong></span> -
+            <a href="tel:+918770016399">8770016399</a><br />
+            <span><strong>Dr. Monalisa Biswal </strong></span> -
+            <a href="tel:+919437058624">9437058624</a><br />
+            <span><strong>Dr. Surajit Sannigrahi </strong></span> -
+            <a href="tel:+919547931188">9547931188</a><br />
+            <span><strong>Dr. Saurav Raj</strong></span> -
+            <a href="tel:+918470975763">8470975763</a><br />
             <span
               >E-mail:
               <a href="mailto: icpc2t_2027@nitrr.ac.in"

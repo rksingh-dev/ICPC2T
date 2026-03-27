@@ -50,7 +50,8 @@
                   onmouseover="this.stop();"
                   onmouseout="this.start();"
                 >
-                  Registration Details: <a href="./Registration.docx" target="_blank" style="color: blue;">Click here for Registration Details</a><br /><br />
+                  <!-- Registration Details: <a href="./Registration.docx" target="_blank" style="color: blue;">Click here for Registration Details</a><br /><br /> -->
+                  Registration Details: <a  target="_blank" style="color: blue;">Coming soon</a><br /><br />
                   Paper Submission starts: 1<sup>st</sup> May, 2026<br /><br />
                   Deadline for Full Paper Submission: 1<sup>st</sup> October, 2026<br /><br />
                   Acceptance Notification: 15<sup>th</sup> November, 2026<br /><br />
@@ -121,7 +122,7 @@ export default {
   name: "Side",
   data() {
     return {
-      eventDate: new Date("2026-03-11T08:00:00"),
+      eventDate: new Date("2027-03-03T08:00:00"),
       days: 0,
       hours: 0,
       minutes: 0,
