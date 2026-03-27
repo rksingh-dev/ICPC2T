@@ -1,6 +1,6 @@
 <template>
               <div class="speakers-list-section">
-                 <h2 class="section-heading">Speakers</h2>
+                 <!-- <h2 class="section-heading">Speakers</h2> -->
 
     <!-- Akshay Kumar Rathore -->
                 <!-- <div class="speaker-item speaker-akshay">
@@ -74,7 +74,7 @@
       </div>
     </div>-->
     <!-- Prof. Sri Niwas Singh -->
-    <div class="speaker-item speaker-singh">
+    <!-- <div class="speaker-item speaker-singh">
       <div class="speaker-details">
         <h3 class="speaker-name">Prof. Sri Niwas Singh</h3>
         <p class="speaker-title">Director, Atal Bihari Vajpayee- Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior, India</p>
@@ -85,10 +85,10 @@
       <div class="speaker-image">
         <img src="@/assets/Prof_Sri_Niwas_Singh.jpg" alt="Prof. Sri Niwas Singh" />
       </div>
-    </div>
+    </div> -->
 
     <!-- Dr. Sanjib Kumar Panda -->
-    <div class="speaker-item speaker-panda">
+    <!-- <div class="speaker-item speaker-panda">
       <div class="speaker-details">
         <h3 class="speaker-name">Dr. Sanjib Kumar Panda</h3>
         <p class="speaker-title">Professor, Department of Electrical and Computer Engineering, National University of Singapore, Singapore</p>
@@ -105,10 +105,10 @@
       <div class="speaker-image">
         <img src="@/assets/Dr_Sanjib_Kumar_Panda.jpg" alt="Dr. Sanjib Kumar Panda" />
       </div>
-    </div>
+    </div> -->
 
     <!-- Dr. Bogdan Kasztenny -->
-    <div class="speaker-item speaker-kasztenny">
+    <!-- <div class="speaker-item speaker-kasztenny">
       <div class="speaker-details">
         <h3 class="speaker-name">Dr. Bogdan Kasztenny</h3>
         <p class="speaker-title">Power System Protection Engineer, Schweitzer Engineering Laboratories (SEL), Ontario, Canada</p>
@@ -119,7 +119,17 @@
       <div class="speaker-image">
         <img src="@/assets/Dr_Bogdan_Kasztenny.jpg" alt="Dr. Bogdan Kasztenny" />
       </div>
+    </div> -->
+
+    <!-- UPDATING SOON  -->
+    <div class="card card-body mb-5">
+        <h2 class="font-weight-bold mt-3">
+          <strong>Speakers</strong>
+        </h2>
+        <hr class="red title-hr" />
+       <p style="text-align: justify">Will be Updated soon.</p>      
     </div>
+
   </div>
 </template>
 

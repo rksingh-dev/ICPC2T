@@ -8,8 +8,12 @@
             <strong>Special Session</strong>
           </h2>
           <hr class="red title-hr" />
-  
-          <div class="article">
+
+          <!-- UPDATE SOON -->
+          <p style="text-align: justify">Will be Updated soon.</p> 
+          
+          <!-- SPECIAL SESSION INFORMATION  -->
+          <!-- <div class="article">
             <p class="article">ICPC2T is now accepting papers in the approved special sessions and papers can be submitted on <a
             href="https://cmt3.research.microsoft.com/ICPC2T2025/Submission/Index"
             >paper submission portal</a
@@ -24,7 +28,7 @@
             >Download SS2 - Brochure
             <i class="fas fa-file-pdf"></i
           ></a></p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

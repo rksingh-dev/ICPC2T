@@ -53,16 +53,16 @@
                   <span class="table-head">Student/Research Scholar</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9440/-</span>
+                  <span class="table-col">8000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$295</span>
+                  <span class="table-col">$250</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10,620/-</span>
+                  <span class="table-col">9000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$354</span>
+                  <span class="table-col">$300</span>
                 </td>
               </tr>
               <tr>
@@ -70,16 +70,16 @@
                   <span class="table-head">Academician</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">9440/-</span>
+                  <span class="table-col">8000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$295</span>
+                  <span class="table-col">$250</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10,620/-</span>
+                  <span class="table-col">9000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$413</span>
+                  <span class="table-col">$300</span>
                 </td>
               </tr>
               <tr>
@@ -87,16 +87,16 @@
                   <span class="table-head">Industry</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">10,620/-</span>
+                  <span class="table-col">11,000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$354</span>
+                  <span class="table-col">$350</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">11,800/-</span>
+                  <span class="table-col">10,000/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$413</span>
+                  <span class="table-col">$400</span>
                 </td>
               </tr>
             </tbody>
@@ -108,11 +108,11 @@
           </strong>
         </p>
         <p class="article">
-          <br />
+          <!-- <br />
           After paying the registration fee fill this google form:
           <br />
           <a href="https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit" target="_blank">https://docs.google.com/forms/d/1pqh7fuePuKQqd3_-Sgdz2ny9Ku6YFBo8QaxKDnOKWv0/edit</a>
-          <br /><br />
+          <br /><br /> -->
           <strong
             >Good and Service Tax (GST) @ 18% included in the fee</strong
           >
@@ -120,9 +120,9 @@
           <strong>Participation:</strong>
           <br/>
           
-          <span>
+          <!-- <span>
           Conference Attendees: INR 5500/USD 200</span>
-          <br/>
+          <br/> -->
          
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
@@ -144,7 +144,7 @@
           <tr><td>Address</td><td> G. E. Road, Raipur (C.G.) 492010</td></tr>
           <tr><td>Bank Details</td><td> <a href="/bankdetails.pdf">Click Here</a></td></tr>
         </table> 
-                     <br>
+                     <!-- <br>
                      <h4>
             Publications Opportunities
         </h4> 
@@ -162,7 +162,7 @@
             the authors.
           </li> 
         </ul> 
-       </p> 
+       </p>  -->
        <p class="article red-text">All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which Scopus indexed is provided they meet the required IEEE criteria and guidelines.</p>
        
         
@@ -174,6 +174,7 @@
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9051868/proceeding"> 2020</a></li>
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/9776593/proceeding"> 2022</a></li>
 <li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding"> 2024</a></li>
+<li>ICPC2T <a href="https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding"> 2025</a></li>
 </ul> 
 
 

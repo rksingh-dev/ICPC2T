@@ -8,7 +8,7 @@
           <strong>Downloads</strong>
         </h2>
         <hr class="red title-hr" />
-        <ul class="list-group z-depth-1 mt-4">
+        <!-- <ul class="list-group z-depth-1 mt-4">
 
           <li class="list-group-item d-flex">
             <a
@@ -42,7 +42,7 @@
                 >
               </li>
             </ul>
-          </li>
+          </li> -->
           <!-- <li class="list-group-item d-flex">
             <a
               href="/ICPC2T-2024.pptx"
@@ -51,7 +51,11 @@
               • Download sample PPT template.
             </a>
           </li> -->
-        </ul>
+        <!-- </ul> -->
+
+
+        <!-- UPDATING SOON -->
+        <p style="text-align: justify">Will be Updated soon.</p> 
       </div>
     </div>
   </div>

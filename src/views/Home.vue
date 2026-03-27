@@ -60,6 +60,10 @@
               ICPC2T
               <a href="https://ieeexplore.ieee.org/xpl/conhome/10474598/proceeding">2024</a>
             </li>
+            <li>
+              ICPC2T
+              <a href="https://ieeexplore.ieee.org/xpl/conhome/10958571/proceeding">2025</a>
+            </li>
           </ul>
         </div>
 

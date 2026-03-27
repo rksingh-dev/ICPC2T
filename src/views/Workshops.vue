@@ -9,6 +9,10 @@
         </h2>
         <hr class="red title-hr" />
 
+      <!-- UPDATING SOON -->
+      <p style="text-align: justify">Will be Updated soon.</p> 
+        
+        
         <!-- <carousel id="primary"
       :per-page="1"
       :mouse-drag="false"

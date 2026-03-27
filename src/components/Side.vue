@@ -51,9 +51,9 @@
                   onmouseout="this.start();"
                 >
                   Registration Details: <a href="./Registration.docx" target="_blank" style="color: blue;">Click here for Registration Details</a><br /><br />
-                  Paper Submission starts: 1<sup>st</sup> July, 2025<br /><br />
-                  Deadline for Full Paper Submission: 30<sup>th</sup> November, 2025<br /><br />
-                  Acceptance Notification: 31<sup>st</sup> December, 2025<br /><br />
+                  Paper Submission starts: 1<sup>st</sup> May, 2026<br /><br />
+                  Deadline for Full Paper Submission: 1<sup>st</sup> October, 2026<br /><br />
+                  Acceptance Notification: 15<sup>th</sup> November, 2026<br /><br />
                   Camera Ready Paper Submission: 20<sup>th</sup> January, 2026<br /><br />
                   Registration Deadline: 31<sup>st</sup> January, 2026<br /><br />
                 </marquee>
@@ -80,23 +80,23 @@
           <tbody>
             <tr>
               <td><strong>Paper submission starts:</strong></td>
-              <td>1<sup>st</sup> July, 2025</td>
+              <td>1<sup>st</sup> May, 2026</td>
             </tr>
             <tr>
               <td><strong>Deadline for Full Paper Submission:</strong></td>
-              <td>30<sup>th</sup> November, 2025</td>
+              <td>1<sup>st</sup> October, 2026</td>
             </tr>
             <tr>
               <td><strong>Acceptance Notifications:</strong></td>
-              <td>31<sup>st</sup> December, 2025</td>
+              <td>15<sup>th</sup> November, 2026</td>
             </tr>
             <tr>
               <td><strong>Camera Ready Paper Submission:</strong></td>
-              <td>20<sup>th</sup> January, 2026</td>
+              <td>15<sup>th</sup> December, 2026</td>
             </tr>
             <tr>
               <td><strong>Registration deadline:</strong></td>
-              <td>31<sup>st</sup> January, 2026</td>
+              <td>15<sup>th</sup> January, 2027</td>
             </tr>
           </tbody>
         </table>
@@ -106,13 +106,13 @@
     <hr class="my-3" />
 
     <!-- Vue-rendered CMT Acknowledgement -->
-    <section class="section mb-5" style="margin-top: 40px;">
+    <!-- <section class="section mb-5" style="margin-top: 40px;">
       <h4 class="mt-2 text-center heading-font"><strong> The CMT Acknowledgement </strong></h4>
       <hr class="red title-hr" />
       <div class="mt-4" style="color: red; font-weight: normal; font-size: 16px; line-height: 1.6;">
         The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
       </div>
-    </section>
+    </section> -->
   </div>
 </template>
 

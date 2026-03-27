@@ -8,7 +8,7 @@
         </div>
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark" id="nav">
-          <router-link class="navbar-brand" id="col" to="/">ICPC<sup>2</sup>T</router-link>
+          <router-link class="navbar-brand" id="col" to="/">ICPC2T</router-link>
           <button
             class="navbar-toggler"
             type="button"

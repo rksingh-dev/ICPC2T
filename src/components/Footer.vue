@@ -8,7 +8,7 @@
         <div class="col-md-4 col-lg-4 footer-section">
           <h5 class="black-text">About Us</h5>
           <p class="black-text">
-            The ICPC²T conference is organized by NIT Raipur to bring together
+            The ICPC2T conference is organized by NIT Raipur to bring together
             researchers, academics, and industry professionals to exchange
             knowledge and innovative ideas.
           </p>
@@ -39,29 +39,25 @@
           <ul class="list-unstyled">
             <li>
               <i class="fas fa-envelope"></i>
-              <a class="black-text ml-1" href="mailto:icpc2t@nitrr.ac.in">
-                icpc2t@nitrr.ac.in
+              <a class="black-text ml-1" href="mailto:icpc2t_2027@nitrr.ac.in">
+                icpc2t_2027@nitrr.ac.in
               </a>
             </li>
             <li>
               <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 9948226112</span>
+              <span class="black-text ml-1">+91 8770016399</span>
             </li>
             <li>
               <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 8754465755</span>
+              <span class="black-text ml-1">+91 8470975763</span>
             </li>
             <li>
               <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 8225910484</span>
+              <span class="black-text ml-1">+91 9547931188</span>
             </li>
             <li>
               <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 9618832222</span>
-            </li>
-            <li>
-              <i class="fas fa-phone"></i>
-              <span class="black-text ml-1">+91 8109831322</span>
+              <span class="black-text ml-1">+91 9437058624</span>
             </li>
             <li>
               <i class="fas fa-map-marker-alt"></i>
